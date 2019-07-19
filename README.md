@@ -1,4 +1,4 @@
 # bitflate.github.io
 bitflate website
 
-To run: jekyll serve
+To run: bundle exec jekyll serve
