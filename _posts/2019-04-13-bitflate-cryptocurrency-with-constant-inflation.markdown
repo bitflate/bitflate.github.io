@@ -3,6 +3,7 @@ layout: post
 title:  "Bitflate - Cryptocurrency with Constant Inflation"
 date:   2019-04-13 18:53:17 -0700
 categories: post
+author: Phuoc Do
 ---
 
 What is Bitflate?

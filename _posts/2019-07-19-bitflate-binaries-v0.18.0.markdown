@@ -3,6 +3,7 @@ layout: post
 title:  "Bitflate Binaries v0.18.0"
 date:   2019-07-19 14:04:00 -0700
 categories: post
+author: Phuoc Do
 ---
 
 After months of tinkering and adapting Bitcoin Core system, I am able to create build for Bitflate binaries.
