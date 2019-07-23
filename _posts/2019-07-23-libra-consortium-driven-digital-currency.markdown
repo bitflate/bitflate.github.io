@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Libra is a Consortium Driven Digital Currency"
-date:   2019-07-21 15:44:00 -0700
+date:   2019-07-23 11:44:00 -0700
 categories: post
 author: Phuoc Do
 ---
