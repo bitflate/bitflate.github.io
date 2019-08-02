@@ -1,12 +1,12 @@
 ---
 layout: page
-title: About Bitflate
+title: About
 permalink: /about/
 ---
 
 Bitflate is a Bitcoin-based crypto currency. Bitflate has inflated supply. We want to create a digital native stablecoin through inflation. The project is in experimental stage.
 
-[bitflate-organization]: https://github.com/bitflate
+[Bitflate Source Code](https://github.com/bitflate)
 
 Technical
 ----------------
