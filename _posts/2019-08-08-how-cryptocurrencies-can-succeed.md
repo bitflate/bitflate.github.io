@@ -34,7 +34,9 @@ Bitcoin is successful because it serves only as a Store of Value. Some people be
 
 > As far as tokens goes... for now, Bitcoin's security depends on its exchange rate (because the subsidy is expressed in BTC). Using the chain for activities that only benefit unrelated assets in a way to competes with its use for BTC is in conflict with security and survival.
 
-There are cryptocurrencies that want to be platforms: Ethereum, EOS, Decred. I think the challenge for them is insurmountable. Not only do they need to maintain their stack, they need to find specific problems to solve. The stack becomes too bloated. When someone wants to create a new cryptocurrency, it may be better to start from scratch than building on a bloated stack.
+Some good specialized coins I see currently: Bitcoin, Zcash, Monero, Dogecoin.
+
+There are cryptocurrencies that want to be platforms: Ethereum, EOS. I think the challenge for them is insurmountable. Not only do they need to maintain their stack, they need to find specific problems to solve. The stack becomes too bloated. When someone wants to create a new cryptocurrency, it may be better to start from scratch than building on a bloated stack.
 
 There're 3 factors that decide a cryptocurrency success: specialization, specialization, specialization.
 
