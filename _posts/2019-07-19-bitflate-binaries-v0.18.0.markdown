@@ -14,7 +14,9 @@ In this post, I show how to run Bitflate Core client.
 
 You can download Bitflate binaries here:
 
-[Bitflate 0.18.0](https://github.com/bitflate/bitflate/releases/tag/v0.18.0rc3)
+(Latest version 0.18.1)
+
+[Bitflate 0.18.1](https://github.com/bitflate/bitflate/releases/tag/v0.18.1)
 
 Bitflate network currently has two seed nodes:
 
