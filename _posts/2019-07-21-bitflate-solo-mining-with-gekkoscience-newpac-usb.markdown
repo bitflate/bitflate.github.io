@@ -22,6 +22,8 @@ First, we need to buy some hardware. I've got mine from 419mining.com and Amazon
 
 Next, we need cgminer software in addition to run mining. We'll use a modified cgminer version from GekkoScience NewPac vendor vthoang/cgminer. I modified the code to enable proper solo mining. Please use this cgminer version. Otherwise, you will not get any coin reward.
 
+### Ubuntu
+
 ```
 # clone the code tree
 git clone https://github.com/bitflate/cgminer
@@ -48,3 +50,25 @@ Plug all the hardware together into your machine. Start Bitflate Core client. We
 ```
 ./cgminer -o http://localhost:8332 -u [username] -p [password] --btc-address [address generated above]
 ```
+
+### Windows
+
+On Windows, you need to perform cgminer build. The build instruction is here:
+
+[Windows Build Instruction](https://github.com/bitflate/cgminer/blob/master/windows-build.txt)
+
+For simplicity, we've created a Windows build for you to use on x86-64 machines. You can download it here:
+
+[Windows Build](https://github.com/bitflate/cgminer/releases/tag/v4.11.1)
+
+Prior to running cgminer.exe, you need to install zadig WinUSB driver. You can download it here:
+
+[http://zadig.akeo.ie](http://zadig.akeo.ie)
+
+```
+cgminer.exe -o http://localhost:8332 -u [username] -p [password] --btc-address [address generated above]
+```
+
+If you have more questions, you can find information about GekkoScience NewPac miner on bitcointalk.org forum:
+
+[https://bitcointalk.org/index.php?topic=5053833.0](https://bitcointalk.org/index.php?topic=5053833.0)
