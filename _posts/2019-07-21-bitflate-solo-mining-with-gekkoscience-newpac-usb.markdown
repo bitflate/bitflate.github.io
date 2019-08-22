@@ -48,7 +48,7 @@ After building cgminer, we need to generate an address to solo mining to. We do 
 Plug all the hardware together into your machine. Start Bitflate Core client. We are ready to mine with this command.
 
 ```
-./cgminer -o http://localhost:8332 -u [username] -p [password] --btc-address [address generated above]
+./cgminer -o http://localhost:7332 -u [username] -p [password] --btc-address [address generated above]
 ```
 
 ### Windows
@@ -66,7 +66,7 @@ Prior to running cgminer.exe, you need to install zadig WinUSB driver. You can d
 [http://zadig.akeo.ie](http://zadig.akeo.ie)
 
 ```
-cgminer.exe -o http://localhost:8332 -u [username] -p [password] --btc-address [address generated above]
+cgminer.exe -o http://localhost:7332 -u [username] -p [password] --btc-address [address generated above]
 ```
 
 If you have more questions, you can find information about GekkoScience NewPac miner on bitcointalk.org forum:
