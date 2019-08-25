@@ -16,7 +16,7 @@ Fast forward 100 years. The year is 2240. Humans rebuilt their infrastructure. T
 
 But this time, Bitcoin splits into 2 chains. Some people want to soft fork and restart mining rewards since so many coins were lost. The total theoretical supply limit of Bitcoin will be 42 million. Other people want to stick with the original supply limit of 21 million. The first group achieves majority. They took the domain name, social media handles. They anoint new leaders and proclaim themselves to be the true Bitcoin. The second group is angry. They rename their chain to Bitcoin Apocalypse to remind people that they are the Bitcoin chain before the apocalypse. And they also vow to bring apocalypse to the self-proclaimed true Bitcoin chain. Just like the forks that came before, Bitcoin Apocalypse will fade in memory.
 
-Bitcoin is still not dead. It continues to live along with humans. It adapts to the majority consensus. It's sneaky and controlling. It feeds and survives on human's desire to fight and control. Its existence seems to immune to human's suffering and will.
+Bitcoin is still not dead. It continues to live along with humans. It adapts to the majority consensus. It's sneaky and controlling. It feeds and survives on human's desire to fight and control. Bitcoin sheds its old self if necessary. It rules over the world of cryptocurrencies. Its existence seems to immune to human's suffering and will.
 
 The End.
 
