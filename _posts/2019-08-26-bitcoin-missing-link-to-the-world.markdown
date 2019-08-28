@@ -32,7 +32,7 @@ In this model, Bitcoin is an asset class. User buys and sells Bitcoin into fiat 
 
 *Can Bitcoin ever be used for direct spending?*
 
-**I think the answer is No. The reason for it is mostly psychological.**
+**I think the answer is mostly No. The reason for it is mostly psychological.**
 
 As I mentioned in the first section, people don't like to mix money use case. If it is possible, people are already using their saving and investment for direct spending. Figure 3 depicts a model of direct spending using investment or Store of Value. I think it is unlikely to happen.
 
