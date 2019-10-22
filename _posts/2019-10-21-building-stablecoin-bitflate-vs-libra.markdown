@@ -66,7 +66,7 @@ Bitflate is live on mainnet. Miners have been producing blocks and processing tr
 
 Libra is facing regulatory pressure. On October 15, 2019, 21 initial members signed the Libra Association charter. But this is only the first step. Libra mainnet launch is not going to happen in the near future.
 
-For Status, I rate:
+For Mainnet, I rate:
 
 **Bitflate wins.**
 
