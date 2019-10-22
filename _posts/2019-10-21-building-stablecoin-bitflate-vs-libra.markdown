@@ -14,7 +14,7 @@ In this article, I compare Bitflate and Libra. I also rate the advantages of eac
 
 ### Permission
 
-Bitflate is a permissionless blockchain. It is a fork of Bitcoin. Bitflate uses Proof of Work. Coins are generated through mining. Anyone can download the client and verify their transactions. The software is open source and potentially can be compatible with many open source vendors.
+Bitflate is a permissionless blockchain. It is a fork of Bitcoin. Bitflate uses Proof of Work. Coins are generated through mining. Anyone can download the client and verify their transactions. The software is open source and can be compatible with other open source software.
 
 Libra is a permissioned blockchain. Participants need to ratify Libra Association charter and pay membership fees. Users probably will need to go through an intermediary agency to interact with Libra.
 
