@@ -72,4 +72,4 @@ For Mainnet, I rate:
 
 ### Conclusion
 
-I think Bitflate and Libra are two different categories of stablecoins. Each comes with their own advantages and disadvantages. However, they can both be beneficial to users. I hope both will succeed. I am optimistic and look forward to being able to use these currencies in the future.
+I think Bitflate and Libra are two categories of stablecoins. Each comes with their own advantages and disadvantages. However, they can both be beneficial to users. I hope both will succeed. I am optimistic and look forward to being able to use these currencies in the future.
