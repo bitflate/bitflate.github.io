@@ -26,7 +26,7 @@ Libra is a semi-centralized cryptocurrency. It is a better version of centralize
 
 ### Libra is too early
 
-Unfortunately, Facebook initiated the Libra project. The company was involved in many data and privacy scandals. Consumer's trust in Facebook is low. Another hurdle for Libra adoption is the public's misunderstanding. Bitcoin is difficult to understand. Most people don't have time to dive into its details. Its price fluctuate wildly. They don't see benefits of cryptocurrencies. Bitcoin has as many critics as believers. The public has not accepted a crypto future. To normal people, Libra is another effort by big corporations to intrude and control their lives.
+Unfortunately, Facebook initiated the Libra project. The company was involved in many data and privacy scandals. Consumer's trust in Facebook is low. Another hurdle for Libra adoption is the public's misunderstanding. Bitcoin is difficult to understand. Most people don't have time to dive into its details. Its price fluctuates wildly. They don't see benefits of cryptocurrencies. Bitcoin has as many critics as believers. The public has not accepted a crypto future. To normal people, Libra is another effort by big corporations to intrude and control their lives.
 
 ### Filling the gap with Bitflate, a decentralized stablecoin
 
