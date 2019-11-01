@@ -24,7 +24,7 @@ Here's the block reward schedule for the first 10 halvings:
 - 1: 25
 - 2: 12.5
 - 3: 6.25 (end of halving)
-- 4: 6.65 (start of inflation 7%)
+- 4: 6.56 (start of inflation 7%)
 - 5: 7.02
 - 6: 7.51
 - 7: 8.04
