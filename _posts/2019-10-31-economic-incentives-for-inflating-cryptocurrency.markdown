@@ -10,7 +10,7 @@ author: Phuoc Do
 
 *Skeptic: Your Bitflate coin supply inflates. It'll devalue people's bag of money. Nobody will want to hold it.*
 
-*Me: Inflation creates more coins. More people will adopt it. That's how it retains value.*
+*Me: Inflation creates more coins. More people will adopt it. That's how it will retain value.*
 
 *Skeptic: That's a ridiculous idea. It won't work.*
 
