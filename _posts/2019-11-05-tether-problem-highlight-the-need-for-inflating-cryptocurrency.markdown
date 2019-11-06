@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Tether Problem Highlights the Need for Inflating Cryptocurrency"
-date:   2019-11-02 11:38:00 -0700
+date:   2019-11-05 22:00:00 -0700
 categories: post
 author: Phuoc Do
 ---
