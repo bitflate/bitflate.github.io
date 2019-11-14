@@ -6,7 +6,7 @@ categories: post
 author: Phuoc Do
 ---
 
-*Bitflate is a cryptocurrency with a constant inflation of 7% per year.*
+*Bitflate is a cryptocurrency with constant inflation of 7% per year.*
 
 *Skeptic: Your Bitflate coin supply inflates. It'll devalue people's bag of money. Nobody will want to hold it.*
 

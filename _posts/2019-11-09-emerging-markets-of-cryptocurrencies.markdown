@@ -34,4 +34,4 @@ Interesting development in this category will involve experimentation with softw
 
 I think this will be an emerging type of cryptocurrency. Crypto market has overlooked inflation. Being dogmatic about limited supply creates a blind spot. Crypto builder historically dismissed inflation. I think this hinders crypto adoption. Inflation can stabilize price. It discourages HODL behavior. It makes the currency more suitable for transactions. Inflating cryptocurrency can be decentralized and governed by fixed rules. As people becomes more comfortable with using inflating cryptocurrency, they will understand the role of SoV like Bitcoin.
 
-*Bitflate is a cryptocurrency with a constant inflation of 7% per year.*
+*Bitflate is a cryptocurrency with constant inflation of 7% per year.*

@@ -6,7 +6,7 @@ categories: post
 author: Phuoc Do
 ---
 
-*Bitflate is a cryptocurrency with a constant inflation of 7%. It's designed to be a digital native and decentralized stablecoin. Price stabilization is done through inflation.*
+*Bitflate is a cryptocurrency with constant inflation of 7%. It's designed to be a digital native and decentralized stablecoin. Price stabilization is done through inflation.*
 
 *Libra is a cryptocurrency backed by Facebook. It is managed and operated by the Libra Association, a membership organization of companies and organizations.*
 

@@ -6,7 +6,7 @@ categories: post
 author: Phuoc Do
 ---
 
-*Bitflate is a cryptocurrency with a constant inflation of 7% per year.*
+*Bitflate is a cryptocurrency with constant inflation of 7% per year.*
 
 Tether stablecoin is in the news again. This time, [Bloomberg](https://www.bloomberg.com/news/articles/2019-11-04/lone-bitcoin-whale-likely-fueled-2017-price-surge-study-says) reported that one Bitcoin whale may have fueled the price surge in 2017. Tether has pending investigations and lawsuits. Many bitcoiners continue to defend Tether. As a private company, Tether dodged authorities by relocating to geo friendly countries (Hong Kong and Taiwan). There is no way to fully audit Tether transaction record. Tether problem highlights the need for a decentralized and digital native transaction coin.
 
