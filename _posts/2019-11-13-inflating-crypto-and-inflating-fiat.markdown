@@ -30,4 +30,4 @@ With deflationary crypto, we are rent-seeking and waiting for price to go up. Ho
 
 Is the world either Austrian or Keynesian? Do we need to pick a side? I don't think so. The world is full of contradictions. Cryptocurrency gives us monetary freedom. We are free to choose whatever money that fits our needs.
 
-*Inflating crypto can work. More about its [economic incentives](/post/2019/11/01/economic-incentives-for-inflating-cryptocurrency.html).*
+*Read more about inflating crypto [economic incentives](/post/2019/11/01/economic-incentives-for-inflating-cryptocurrency.html).*
