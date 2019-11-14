@@ -22,7 +22,7 @@ Then, we discover crypto is also fake. It requires us to come to consensus, to b
 
 This is another type of feedback I got. Some people rather use a fiat issued by authority than a digital native and decentralized crypto with inflation. Maybe, we dislike inflation more than government. Bad economic policies sure can trigger hyperinflation. But inflation is a natural phenomenon. It happens in healthy economy. Low inflation triggers other problems.
 
-I think a crypto with constant inflation is appealing. The most important aspect is predictability. We can find ways to avoid value loss. It is not an asset for long-term investment. But it is useful for some use cases.
+I think a crypto with constant inflation is appealing. The most important aspect is predictability. We can find ways to avoid value loss. It is not an asset for long-term investment. But it has its own use cases.
 
 ### Inflating crypto is for transaction
 
