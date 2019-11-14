@@ -29,3 +29,5 @@ I think a crypto with constant inflation is appealing. The most important aspect
 With deflationary crypto, we are rent-seeking and waiting for price to go up. Holders contribute nothing to price rise. We are discouraged from spending and investing in its ecosystem. The goal of inflating crypto is transaction, not Store of Value. It discourages HODL behavior. Because inflating crypto loses value over time, we are forced to put it to use. We will need to lend, spend, or invest the money.
 
 Is the world either Austrian or Keynesian? Do we need to pick a side? I don't think so. The world is full of contradictions. Cryptocurrency gives us monetary freedom. We are free to choose whatever money that fits our needs.
+
+*Inflating crypto can work. More about its [economic incentives](/post/2019/11/01/economic-incentives-for-inflating-cryptocurrency.html).*
