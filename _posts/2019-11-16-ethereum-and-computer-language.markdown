@@ -7,6 +7,7 @@ author: Phuoc Do
 ---
 
 *Bitflate is a cryptocurrency with constant inflation of 7% per year.*
+
 *This article reflects author's opinion, not Bitflate community.*
 
 When I first got into crypto in 2017, the first project I looked at was Ethereum (ETH). It captured a lot of attention from the market. I'm a developer so I have the skills to dig around a ETH development framework, such as Truffle. I find the whole ecosystem confusing. The idea of smart contract and programmable blockchain sounds fancy. But like many things in software, fancy is a gloss for complex technology that doesn't work. I followed ETH development. I didn't find a good and simple use case that really gains adoption. I think CryptoKitties was probably the most notable project.
