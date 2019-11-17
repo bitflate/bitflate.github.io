@@ -21,22 +21,22 @@ I use this real estate adage (location, location, location) to emphasize the imp
 
 ETH pitch is general purpose, programmable blockchain. It is supposed to conquer all markets. But since it is general purpose, it doesn't do anything particularly well. In digital gold use case, it is trailing far behind Bitcoin. Its programmable capability opens gateway for scams. Post ICO craze, ETH community has moved on to the next pitch, decentralized finance, DeFi.
 
-It is easy to look at ETH history and point out many flaws. But if we think of it as an experimental, research project, we can learn some things from it. I suspect BTC sidechain idea is an effort to compete with ETH. So not everything in ETH is bad. But how do we gauge its success? From my software background, comparing ETH to computer language will give us some glimpse about ETH prospect.
+It is easy to look at ETH history and point out many flaws. But if we think of it as an experimental, research project, we can learn some things from it. I suspect BTC sidechain idea is an effort to compete with ETH. Not everything in ETH is bad. But how do we gauge its success? From my software background, comparing ETH to computer language will give us some glimpse about ETH prospect.
 
 ### Ethereum as computer language
 
-Ethereum is a programmable blockchain. It's supposed to be programmable, like a computer language. I find they share similarities. Computer language is obviously programmable :) One lesser known fact about computer language is almost all of them are general purpose. That means you can actually program anything with a particular language. For example, Java is a high level programming language. But it's possible to program an operating using Java. This is an interesting feature but it is also very confusing. Occasionally, people will use programming language in very different use cases.
+Ethereum is a programmable blockchain. It's supposed to be programmable, like a computer language. I find they share similarities. Computer language is obviously programmable :). One lesser known fact about computer language is almost all of them are general purpose. That means you can actually program anything with a particular language. For example, Java is a high level programming language. But it's possible to program an operating using Java. This is an interesting feature but it is also very confusing. Occasionally, people will use programming language in very different use cases.
 
 ### Programming language shines in specific use case
 
-Each language is optimized and used for a very specific use case. For example, when it comes to operating system, the dominant language is C. In enterprise software application, it is Java. PHP is a language that is used for web development. In some cases, we find languages with multiple use cases. For example, Python started out as a scripting language, then it got adopted for web applications, and recently data science.
+Each language is optimized and used for a very specific market. For example, when it comes to operating system, the dominant language is C. In enterprise software application, it is Java. PHP is a language that is used for web development. It doesn't find much use outside of web development. In some cases, we find languages with multiple use cases. For example, Python started out as a scripting language, then it got adopted for web applications, and recently data science.
 
 Drawing from computer language analogy, for ETH to succeed, it needs to find a specific use case. If ETH community keeps pitching general purpose blockchain, they diminish ETH long term prospect.
 
 ### Polymorphic Ethereum
 
-It is possible for Ethereum to be general purpose for a long time. Eventually, somebody will come up with a scenario. This occasionally happens in computer language. Ruby is a very old language. It was invented in 1995. It did not find any success until around 2005. Interest in Ruby surged because a programmer, David Heinemeier Hansson (DHH), invented Rails, a new way to program web application. He decided to use Ruby as the underlying language.
+It is possible for Ethereum to be general purpose for a long time. It can be a fun research project for many years. Eventually, somebody will come up with a working scenario. This occasionally happens in computer language. Ruby is a lesser known programming language. It was invented in 1995. It did not find any success until around 2005. Interest in Ruby surged because a programmer, David Heinemeier Hansson (DHH), invented Rails, a new way to program web application. He decided to use Ruby as the underlying language.
 
-Perhaps, around year 2025, a Ethereum DHH will appear and figure out a cool use case for Ethereum. Even then, it is good to remember that even with Ruby, its use case is limited to Rails. The applicable Ethereum use case will be very specific. It will not be what we see today.
+Perhaps, around year 2025, an Ethereum DHH will appear and figure out a cool use case for Ethereum. Even then, it is good to remember that even with Ruby, its use case is limited to Rails. The applicable Ethereum use case will be very specific. It will not be what we see today in the market.
 
 Disclosure: I'm long Bitcoin (BTC) and Biflate (BFL).
