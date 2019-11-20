@@ -20,7 +20,7 @@ I'm a software engineer. I have seen smart and innovative technology in crypto m
 
 I have come to the conclusion that **technology is not the problem**, at least right now. We have enough technology to solve any problem in the next 5-10 years. We don't need more solutions to solve imaginary problems. The real problem is our base layer is missing some economics.
 
-### Bitcoin strength and its weakness: limited supply
+### Bitcoin strength and weakness: limited supply
 
 Bitcoin has successfully bootstrapped using limited supply. Its limited supply and halving increase market price. I think Bitcoin would not survive if it didn't have this property. There is economic and social movement built around Bitcoin. People promise liberation from the existing monetary system. Despite of the hype, the main use case of Bitcoin remains Store of Value. It remains and likely continues to be a speculative asset. With Bitcoin, we HODL. The feature that defines Bitcoin hinders its adoption. Its strength is also its weakness.
 
