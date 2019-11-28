@@ -6,7 +6,9 @@ categories: post
 author: Phuoc Do
 ---
 
-From time to time, especially when the price is down, Crypto Twitter will go into war against each other. Someone usually triggers war by saying controversial things. The hottest debates happen between Bitcoin (BTC) and Ethereum (ETH) or Bitcoin (BTC) and Bitcoin Cash (BCH). Occasionally, we see Bitcoin SV (BSV) enters the debate.
+![Figure 1](/assets/images/BitcoinConception.png)
+
+From time to time, especially when the price is down, the crypto sphere will go into war against each other. Someone usually triggers war by saying controversial things. The hottest debates happen between Bitcoin (BTC) and Ethereum (ETH) or Bitcoin (BTC) and Bitcoin Cash (BCH). Occasionally, we see Bitcoin SV (BSV) enters the debate.
 When I first got into crypto, I looked at Ethereum. Then I learned and bought Bitcoin. I see outrageous claims from both communities. With Ethereum, it's a programmable Store of Value that will reinvent the world's finance and save the bankless humans. With Bitcoin, it's digital gold and money that will eventually replace all of the world's money. The visions are grand. Both coins over promise and under deliver. I see Bitcoin remains a speculative asset and Ethereum is a crypto research project. The crypto space is plagued with scams.
 
 The tit-for-tat arguments escalate quickly. Crypto communities sometimes feel like religions. Some people declare their religious zeal to their communities. Tuur Demeester, an influential Bitcoin analyst, recently released The Bitcoin Reformation paper. Reformation is a reference to the Western Christianity movement in the 16th century. There're many ways to attach religious stories to Bitcoin.
@@ -31,4 +33,4 @@ Satoshi wanted to reinvent money. To make the monetary incentive work, he may ha
 
 ### Baptism
 
-Humans squabbled over these conflicting claims for thousands of years. The conflicting stories were written to the Bible. Crypto communities continue to attack each other and make outrageous claims. I think the Bible also contains stories that can help us find a cure. Bitcoin may have started with an Immaculate Conception and an Original Sin. The world is full of contradiction. Whatever happened, we are here with cryptocurrencies. The sin is not ours. We can "baptize" ourselves and move forward. Without forgiveness, we can never make peace with others and with ourselves.
+Humans squabbled over these conflicting claims for thousands of years. The conflicting stories were written to the Bible. Crypto communities continue to attack each other and make outrageous claims. I think the Bible also contains stories that can help us find a cure. Bitcoin may have started with an Immaculate Conception and an Original Sin. The world is full of contradiction. Whatever happened, we are here with cryptocurrencies. The problem is not ours. We can "baptize" ourselves and move forward. Without forgiveness, we can never make peace with others and with ourselves.
