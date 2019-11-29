@@ -21,16 +21,18 @@ Satoshi's identify and disappearance created mysteries around Bitcoin. There's l
 
 Bitcoin origin was attributed to a higher power. Its creation was perfect in both design and timing. Bitcoin is the start of a new chapter in human history. Bitcoin is an Immaculate Conception.
 
-The story is powerful. It creates a strong narrative. Bitcoin is destined to have infinite value. It will first become digital gold. Then it will conquer all of the world's money. Bitcoin will destroy all the financial trickery that plagued human society.
+The story is powerful. It creates a strong narrative. Bitcoin is destined to have infinite value. First, it will  become digital gold. Then it will conquer all of the world's money. Bitcoin will destroy all the financial trickery that plagued human society.
 
 ### Original Sin
 
 When I first came to Bitcoin, I was baffled by its mysteries. I have an interest in religious studies. Bitcoin's religious interpretation is appealing. Perhaps, God did come to Earth and delivered Bitcoin to humanity. I dug deeper and learned more. I think there is another religious story around Bitcoin: the Original Sin. In this story, the Original Sin was committed by Satoshi. When he/she/they released the Bitcoin whitepaper, its title indicated Bitcoin as A Peer-to-Peer Electronic Cash System. As Satoshi worked on Bitcoin, its narrative changed to digital gold. Satoshi promised us digital cash. But he/she/they gave us digital gold.
 
-When Satoshi disappeared, it is up to people to interpret the intention. The Bitcoin community remains attached to the digital gold narrative. Its supporters claim once Bitcoin reaches critical mass, it will become digital cash. The narrative is to become the Store of Value first, the Medium of Exchange later. Some people took a scriptural interpretation of the Bitcoin whitepaper. They want Bitcoin to be digital cash. They forked to Bitcoin Cash with bigger block size. The idea is to make Bitcoin work for everyday transactions.
+When Satoshi disappeared, it is up to people to interpret the intention. The Bitcoin community remains attached to the digital gold narrative. Its supporters claim once Bitcoin reaches critical mass, it will become digital cash. The narrative is to become the Store of Value first, the Medium of Exchange later. However, some people took a scriptural interpretation of the Bitcoin whitepaper. They want Bitcoin to be digital cash. They forked to Bitcoin Cash with bigger block size. The idea is to make Bitcoin work for everyday transactions.
 
-Satoshi wanted to reinvent money. To make the monetary incentive work, he may have inadvertently switched to digital gold. It's a hack to get something to work for now. Then we can worry about making Bitcoin for everyone later. I think Original Sin is an interesting story. It explains why crypto is plagued with scams. They all have their origins in a confusion between digital cash and digital gold.
+Satoshi wanted to reinvent money. To make the monetary incentive work, he may have inadvertently switched to digital gold. It's a hack to get something to work for now. Then we can worry about making Bitcoin for everyone later. I think Original Sin is an interesting story. It explains why crypto is plagued with scams. They all have their origins in the confusion between digital cash and digital gold.
 
 ### Baptism
+
+Bitcoin is an exciting study case for religion. It shows us how the intermingling of an Immaculate Conception and an Original Sin can be the origin of a new change. Religious stories can give us hints of solutions.
 
 Humans squabbled over these conflicting claims for thousands of years. The conflicting stories were written to the Bible. Crypto communities continue to attack each other and make outrageous claims. I think the Bible also contains stories that can help us find a cure. Bitcoin may have started with an Immaculate Conception and an Original Sin. The world is full of contradiction. Whatever happened, we are here with cryptocurrencies. The problem is not ours. We can "baptize" ourselves and move forward. Without forgiveness, we can never make peace with others and with ourselves.
