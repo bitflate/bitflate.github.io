@@ -20,11 +20,9 @@ Digital assets are digital. Humans are the arbitrageurs. Humans are emotional. D
 
 Whatever your algorithms are, you need to arbitrage risks. So you will always need to lock up more USD-ETH to account for risks. To be safe, maybe, you need 1.5 USD-ETH for a DAI USD. However, with digital scarce and volatile assets like Ethereum, there's a chance that 1.5 USD-ETH will drop to 0.9 USD-ETH. At that point, you will be underwater. A couple of days ago, it did. If you need to lock up 1.5 USD for 1 USD, you may as well go get 1 USD. It's a dumb idea to use 1.5 USD to get 1 USD.
 
-DAI has a lot of jargon and technology (more layers on top of the shaky foundation). These things make it look sophisticated and fool people. The basic problem is very simple. You only need elementary school arithmetic and logic to know its flaws and inefficiency. People who put money into DAI are exposing their money to a lot of unknown risks.
+DAI has a lot of jargon and technology (more layers on top of the shaky foundation). These things make it look sophisticated and fool people. The basic problem is very simple. You only need elementary school arithmetic and logic to know its flaws and inefficiency. You can say it is interesting to develop technology to build stabilization technology on a shaky foundation. That is fine for a hobby project if you have a lot of time and money to waste. People who put money into DAI are exposing their money to a lot of unknown risks.
 
-### A Possible Fix - Centralized Bank
-
-I highlighted the problem with DAI. But I wish the MakerDAO team success. The fix for DAI will require the MakerDAO team to move to a centralized bank model. They are somewhat centralized already. With control, they'll be able to manage the risks. They may even get USD reserve to reduce Ethereum volatility. In this case, the MakeDAO will become a kind of hybrid crypto and fiat bank. I don't know how this would work. It could be an interesting model. DAI may work. It's just not going to be a decentralized stablecoin.
+A potential fix for DAI will require the MakerDAO team to move to a centralized bank model. They are somewhat centralized already. With control, they'll be able to manage the risks. They may even get USD reserve to reduce Ethereum volatility. In this case, the MakeDAO will become a kind of hybrid crypto and fiat bank. I don't know how this would work. It could be an interesting model. But it's going to be a centralized stablecoin.
 
 ### Bitflate - Digital Native (Somewhat) Stablecoin
 
