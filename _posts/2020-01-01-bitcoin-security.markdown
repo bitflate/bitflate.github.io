@@ -21,7 +21,7 @@ The 2008 financial crisis exposed a lot of problems in the US economy. The US go
 
 ### Bitcoin technology security
 
-Bitcoin is secured by its technology and operations. Beyond its technology, nobody is in charge of securing your bitcoins. You are on your own. A decentralized money requires everyone to take care of their security. There is no military to go after the bad guys, at least up until now, not yet.
+Bitcoin is secured by its technology and operations. Beyond its technology, nobody is in charge of securing your bitcoins. You are on your own. Decentralized money requires everyone to take care of their security. There is no military to go after the bad guys, at least up until now, not yet.
 
 Bitcoin is full of scam because it lacks a social mechanism to provide security beyond technology. There is no police, no judge, no court, no military.
 
@@ -31,7 +31,7 @@ To secure your bitcoins, you have several options. You can rely on a third party
 
 You can use hardware and offline wallet to store them. But then, you need to find a secure place to store your wallet and key. You can put them in a safe in your house or a safety deposit box at a bank. Either way, you are still at risk of losing your coins.
 
-Contrary to popular crypto opinion, Bitcoin would benefit from some centralization. Using an exchange has benefits. Your exchange secures many people's coins. They can be better than your do-it-yourself security. In the case of a hack, you are on the same boat with other people. A community can work together to go search for the lost coins. This is a level of security that goes beyond Bitcoin technology stack. It is social consensus security.
+Contrary to popular crypto opinion, Bitcoin would benefit from some centralization. Using an exchange has benefits. Your exchange secures many people's coins. They can be better than your do-it-yourself security. In the case of a hack, you are on the same boat with other people. A community can work together to go search for the lost coins. This is a level of security that goes beyond the Bitcoin technology stack. It is social consensus security.
 
 **Some level of centralization is good for Bitcoin.**
 
