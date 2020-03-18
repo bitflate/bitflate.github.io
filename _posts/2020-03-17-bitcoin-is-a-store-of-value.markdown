@@ -8,7 +8,7 @@ author: Phuoc Do
 
 *Bitflate is a cryptocurrency with constant inflation of 7% per year. Its goal is to be a Medium of Exchange.*
 
-*This article expresses a personal opinion of the Bitflate developer. It is not an investment advice.*
+*This article expresses a personal opinion of the Bitflate developer. It is not investment advice.*
 
 **TL;DR**
 
