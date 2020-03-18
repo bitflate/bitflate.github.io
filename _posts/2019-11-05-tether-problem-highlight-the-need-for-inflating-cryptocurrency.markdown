@@ -6,7 +6,7 @@ categories: post
 author: Phuoc Do
 ---
 
-*Bitflate is a cryptocurrency with constant inflation of 7% per year.*
+*Bitflate is a cryptocurrency with constant inflation of 7% per year. Its goal is to be a Medium of Exchange.*
 
 Tether stablecoin is in the news again. This time, [Bloomberg](https://www.bloomberg.com/news/articles/2019-11-04/lone-bitcoin-whale-likely-fueled-2017-price-surge-study-says) reported that one Bitcoin whale may have fueled the price surge in 2017. Tether has pending investigations and lawsuits. Many bitcoiners continue to defend Tether. As a private company, Tether dodged authorities by relocating to geo friendly countries (Hong Kong and Taiwan). There is no way to fully audit the Tether transaction record. The tether problem highlights the need for a decentralized and digital native transaction coin.
 
@@ -23,3 +23,5 @@ Besides Tether, there are other stablecoins: USDC, Gemini dollar. But each coin 
 ### The role of inflating cryptocurrency
 
 How do we break this deadlock to move cryptocurrency forward? I think crypto space needs a new category: decentralized and digital native cryptocurrency with constant inflation. With inflating supply, people will not hold the coins for just price speculation. With a balanced reward system and adoption rate, inflation can create more supply for new adopters. The blockchain is decentralized. The tradeoff is the price would not be completely stable. But it is a good tradeoff for being permissionless. As more people become comfortable with using cryptocurrency, they would be more open to stablecoin alternatives like Libra. This is how we move cryptocurrency forward.
+
+*Bitflate is a cryptocurrency with constant inflation of 7% per year. Its goal is to be a Medium of Exchange.*

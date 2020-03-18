@@ -6,7 +6,7 @@ categories: post
 author: Phuoc Do
 ---
 
-*Bitflate is a cryptocurrency with constant inflation of 7% per year.*
+*Bitflate is a cryptocurrency with constant inflation of 7% per year. Its goal is to be a Medium of Exchange.*
 
 It is 2019. I'm pitching my idea of Bitflate, a cryptocurrency with constant inflation. I've got a lot of NO feedback. Investors tell me the age of tokens has passed. We don't need more tokens. Crypto enthusiasts tell me I'm just forking Bitcoin. It's been done so many times. There's no innovation.
 
@@ -47,3 +47,5 @@ Bitflate is a cryptocurrency with constant inflation. It is experimental. My exp
 - 10: 9.85 (supply: 31 million)
 
 Other tokens have constant tail emission. Bitflate has a percentage, exponential increase. Even with 7% inflation, Bitflate supply is still limited. This is an incentive for early adopters to acquire Bitflate tokens. I think inflating crypto has different economics. It discourages HODL. It's not a long-term Store of Value. When people transact more often, we will see crypto moving. The market needs an inflating cryptocurrency. This is why I create a cryptocurrency in 2019.
+
+*Bitflate is a cryptocurrency with constant inflation of 7% per year. Its goal is to be a Medium of Exchange.*

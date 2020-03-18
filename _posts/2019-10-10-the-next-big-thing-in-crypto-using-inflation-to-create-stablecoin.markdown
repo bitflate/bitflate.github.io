@@ -6,6 +6,8 @@ categories: post
 author: Phuoc Do
 ---
 
+*Bitflate is a cryptocurrency with constant inflation of 7% per year. Its goal is to be a Medium of Exchange.*
+
 This is my view of the next big thing in crypto. Bitcoin is digital gold. It has a limited supply of 21 million coins. Therefore, its price fluctuates. Stablecoins are cryptocurrencies designed to avoid price volatility. Existing stablecoins are issued by centralized authorities. This mechanism defeats the ethos of cryptocurrency. In order to access decentralized cryptocurrency, we need to rely on centralized authorities to issue digital stablecoins.
 
 ### A New Look at Inflation
@@ -43,3 +45,5 @@ With inflation, there will not be a pressure to push price up too high. Bitflate
 Bitflate price will not be as stable as pegged stablecoins. It has significant advantages: digital native and decentralized. Bitflate will be more suitable for transactions than deflationary cryptocurrencies. It opens a new gateway to financial possibilities. In this future, we, the people, are in control.
 
 PS: Bitflate is now trading on [Unnamed Exchange](https://bitflate.org/exchange/). Join our [discord community](https://discord.gg/utnEyp8) for update.
+
+*Bitflate is a cryptocurrency with constant inflation of 7% per year. Its goal is to be a Medium of Exchange.*

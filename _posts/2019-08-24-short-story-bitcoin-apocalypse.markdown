@@ -6,6 +6,8 @@ categories: post
 author: Phuoc Do
 ---
 
+*Bitflate is a cryptocurrency with constant inflation of 7% per year. Its goal is to be a Medium of Exchange.*
+
 Note: This story is a fiction of the future. It's not exactly what will happen to Bitcoin.
 
 The year is 2140. A apocalyptic disaster hits planet Earth. Human civilization is wiped out. Humans die of starvation and disease. Bitcoin mining network is down. Bitcoin satellites are still flying around Earth. But nobody communicates to them. Hashrate dropped to 0. No new block is created. Pockets of human survivors are trying to make through their days.
@@ -24,3 +26,5 @@ This comes from two things I learn recently:
 
 1. Hashrate drop to 0 is not going to kill Bitcoin. The network just goes to sleep.
 2. Bitcoin doesn't have to be completely decentralized.
+
+*Bitflate is a cryptocurrency with constant inflation of 7% per year. Its goal is to be a Medium of Exchange.*

@@ -6,7 +6,7 @@ categories: post
 author: Phuoc Do
 ---
 
-*Bitflate is a cryptocurrency with constant inflation of 7% per year.*
+*Bitflate is a cryptocurrency with constant inflation of 7% per year. Its goal is to be a Medium of Exchange.*
 
 *Skeptic: Your Bitflate coin supply inflates. It'll devalue people's bag of money. Nobody will want to hold it.*
 
@@ -55,3 +55,5 @@ If Bitflate manages to survive for many years, its adoption will eventually plat
 ### Bitflate is experimental
 
 Despite the two incentives, Bitflate can fail. If Bitflate fails to reach critical mass, it may implode. Price and hashrate will crash. Users may need more than just these two incentives. Historically, authorities force people to use whatever inflationary currencies they issue. On the other hand, people like deflationary assets like real estate, gold, Bitcoin. Bitflate is a new digital alternative. It is better than inflationary fiat. But it may not provide enough incentives.
+
+*Bitflate is a cryptocurrency with constant inflation of 7% per year. Its goal is to be a Medium of Exchange.*

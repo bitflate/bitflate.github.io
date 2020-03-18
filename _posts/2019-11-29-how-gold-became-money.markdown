@@ -6,6 +6,8 @@ categories: post
 author: Phuoc Do
 ---
 
+*Bitflate is a cryptocurrency with constant inflation of 7% per year. Its goal is to be a Medium of Exchange.*
+
 Gold has been a valuable commodity since ancient times. When gold showed up in written history, it was already a valuable commodity [3]. Societies had used it as money. We don't exactly know how it became money. There are hypotheses [1].
 
 - Scarce: Its supply is more limited than other chemical elements. You cannot easily extract it. The mining process has become intensive over time.
@@ -69,3 +71,5 @@ https://en.wikipedia.org/wiki/An_D%C6%B0%C6%A1ng_V%C6%B0%C6%A1ng
 
 [6] Cao Lo
 https://en.wikipedia.org/wiki/Cao_L%E1%BB%97
+
+*Bitflate is a cryptocurrency with constant inflation of 7% per year. Its goal is to be a Medium of Exchange.*

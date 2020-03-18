@@ -6,7 +6,7 @@ categories: post
 author: Phuoc Do
 ---
 
-*Bitflate is a cryptocurrency with constant inflation of 7% per year.*
+*Bitflate is a cryptocurrency with constant inflation of 7% per year. Its goal is to be a Medium of Exchange.*
 
 When you are involved long enough with crypto, you'll see a lot of stupid ideas. DAI is one of them. Its ecosystem had a meltdown a few days ago during a crypto price crash. You can read about the story [here](https://www.coindesk.com/defi-leader-makerdao-weighs-emergency-shutdown-following-eth-price-drop).
 
@@ -27,3 +27,5 @@ A potential fix for DAI will require the MakerDAO team to move to a centralized 
 ### Bitflate - Digital Native (Somewhat) Stablecoin
 
 A potential prospect for digital native stablecoin is Bitflate. Bitflate is similar to Bitcoin but with a 7% inflation of supply. Bitcoin has proven to be a good model for creating decentralized money. By adding inflation to the supply, Bitflate creates incentives for people to spend. Its supply is still limited by the inflation rate. This is why it will retain some value. Even when Bitflate gains adoption, its price will not be completely stable. This is the tradeoff we have to live with for decentralization.
+
+*Bitflate is a cryptocurrency with constant inflation of 7% per year. Its goal is to be a Medium of Exchange.*

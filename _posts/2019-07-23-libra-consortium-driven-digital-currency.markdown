@@ -6,6 +6,8 @@ categories: post
 author: Phuoc Do
 ---
 
+*Bitflate is a cryptocurrency with constant inflation of 7% per year. Its goal is to be a Medium of Exchange.*
+
 Libra is a new digital currency from Facebook. It has garnered a lot of attention lately. It's been grilled by the government, scrutinized by crypto community. I think Libra is an interesting addition to cryptocurrency space. Like most other altcoins, it has a small chance of success.
 
 ### The Libra Association
@@ -27,3 +29,5 @@ Facebook is asking corporations big and small to work together. Imagine if you a
 Libra has a small chance of success if it can find the right scenarios to focus. These scenarios are going to be small and limited. This way, it can get the most important stakeholders to cooperate.
 
 Libra success will be a net positive for the cryptocurrency space.
+
+*Bitflate is a cryptocurrency with constant inflation of 7% per year. Its goal is to be a Medium of Exchange.*

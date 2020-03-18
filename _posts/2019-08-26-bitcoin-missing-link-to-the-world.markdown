@@ -6,6 +6,8 @@ categories: post
 author: Phuoc Do
 ---
 
+*Bitflate is a cryptocurrency with constant inflation of 7% per year. Its goal is to be a Medium of Exchange.*
+
 With halving expected in May 2020, Bitcoin is building up momentum to rise to the next level. Bitcoin bulls tout rising hash rate, halving reward, lightning network, global instability as major reasons for price appreciation. Maybe, it will reach trillion dollar market cap. The 2018 bull run was catalyzed with altcoins and ICOs. Some argue that ICO was distraction. But it's difficult to say Bitcoin price would rise to almost $20k without the hype of ICOs. This time, the market for altcoins and ICOs seem dead. Bitcoin market cap dominance continues to rise. The lonely king will need to prove to the world.
 
 But it is naive to think that these known fundamentals will drive Bitcoin price to the next level. I believe Bitcoin adoption is the key driver of price. Being able to use it is important. In this post, I describe what I see as the missing link of Bitcoin to the world.
@@ -49,3 +51,5 @@ I think the missing piece in this puzzle is a crypto currency for spending. It i
 *Figure 4: Separate Saving and Spending Accounts*
 
 A crypto currency for spending gets users familiar with crypto software. User can swap between Bitcoin Store of Value (saving) and spending coins. Spending tokens are also less valuable than bitcoins. Account separation provides additional layers of security and peace of mind.
+
+*Bitflate is a cryptocurrency with constant inflation of 7% per year. Its goal is to be a Medium of Exchange.*

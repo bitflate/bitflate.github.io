@@ -6,6 +6,8 @@ categories: post
 author: Phuoc Do
 ---
 
+*Bitflate is a cryptocurrency with constant inflation of 7% per year. Its goal is to be a Medium of Exchange.*
+
 ### Elusive crypto revolution
 
 Ten years after the Bitcoin white paper introduction, cryptocurrencies have not gone mainstream. Crypto aficionados remain bullish that Bitcoin will take over the world financial system. They enforce their views on the world, remain a stubborn minority. They hope that their stubbornness will eventually prevail.
@@ -41,3 +43,5 @@ There are cryptocurrencies that want to be platforms: Ethereum, EOS. I think the
 There're 3 factors that decide a cryptocurrency success: specialization, specialization, specialization.
 
 PS: If you ever wonder what Bitflate is specialized in, here's Bitflate use case. It seeks to be a digital native stablecoin through inflation. People use Bitflate for transaction. Inflation discourages HODL and encourages users to transact.
+
+*Bitflate is a cryptocurrency with constant inflation of 7% per year. Its goal is to be a Medium of Exchange.*

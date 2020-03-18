@@ -6,7 +6,7 @@ categories: post
 author: Phuoc Do
 ---
 
-*Bitflate is a cryptocurrency with constant inflation of 7% per year.*
+*Bitflate is a cryptocurrency with constant inflation of 7% per year. Its goal is to be a Medium of Exchange.*
 
 *This article reflects the author's opinion, not Bitflate community.*
 
@@ -41,3 +41,5 @@ Ethereum can be general-purpose for a long time. It can be a fun research projec
 Perhaps, around the year 2025, an Ethereum DHH will appear and figure out a cool use case for Ethereum. Even then, it is good to remember that even with Ruby, its use case is limited to Rails. The applicable Ethereum use case will be very specific. It will not be what we see today in the market.
 
 Disclosure: I'm long Bitcoin (BTC) and Biflate (BFL).
+
+*Bitflate is a cryptocurrency with constant inflation of 7% per year. Its goal is to be a Medium of Exchange.*

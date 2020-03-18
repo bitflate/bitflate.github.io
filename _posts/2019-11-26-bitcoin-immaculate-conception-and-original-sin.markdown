@@ -6,6 +6,8 @@ categories: post
 author: Phuoc Do
 ---
 
+*Bitflate is a cryptocurrency with constant inflation of 7% per year. Its goal is to be a Medium of Exchange.*
+
 ![Figure 1](/assets/images/BitcoinConception.png)
 
 From time to time, especially when the price is down, the crypto sphere will go into war against each other. Someone usually triggers war by saying controversial things. The hottest debates happen between Bitcoin (BTC) and Ethereum (ETH) or Bitcoin (BTC) and Bitcoin Cash (BCH). Occasionally, we see Bitcoin SV (BSV) enters the debate.
@@ -36,3 +38,5 @@ Satoshi wanted to reinvent money. To make the monetary incentive work, he may ha
 Bitcoin is an exciting study case for religion. It shows us how the intermingling of an Immaculate Conception and an Original Sin can be the origin of a new change. Religious stories can give us hints of solutions.
 
 Humans squabbled over these conflicting claims for thousands of years. The conflicting stories were written to the Bible. Crypto communities continue to attack each other and make outrageous claims. I think the Bible also contains stories that can help us find a cure. Bitcoin may have started with an Immaculate Conception and an Original Sin. The world is full of contradiction. Whatever happened, we are here with cryptocurrencies. The problem is not ours. We can "baptize" ourselves and move forward. Without forgiveness, we can never make peace with others and with ourselves.
+
+*Bitflate is a cryptocurrency with constant inflation of 7% per year. Its goal is to be a Medium of Exchange.*
