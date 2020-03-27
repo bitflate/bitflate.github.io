@@ -1,22 +1,20 @@
 ---
 layout: post
-title:  "Bitflate Binaries v0.18.0"
-date:   2019-07-19 14:04:00 -0700
+title:  "Bitflate Binaries v0.19.0.1"
+date:   2020-03-27 10:00:00 -0700
 categories: post
 author: Phuoc Do
 ---
 
-After months of tinkering and adapting the Bitcoin Core system, I create build for Bitflate binaries.
-I've mined 6k blocks to create checkpoints. Mining is paused now. I will resume mining after I post
-mining setup instruction.
+We have a new release for Bitflate Core client. This release notable change in Bitflate is burying of SegWit at block 28224.
 
-In this post, I show how to run Bitflate Core client.
+For other notable changes in v0.19.0.1, see Bitcoin Core release notes:
+
+[Bitcoin Core 0.19.0.1 Release Notes](https://bitcoin.org/en/release/v0.19.0.1)
 
 You can download Bitflate binaries here:
 
-(Latest version 0.18.1)
-
-[Bitflate 0.18.1](https://github.com/bitflate/bitflate/releases/tag/v0.18.1)
+[Bitflate 0.19.0.1](https://github.com/bitflate/bitflate/releases/tag/v0.19.0.1)
 
 Bitflate network currently has two seed nodes:
 
