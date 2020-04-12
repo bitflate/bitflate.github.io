@@ -24,11 +24,11 @@ Since the invention of paper money, we've developed payment systems that work we
 
 ### Cryptos are kinda like arts
 
-Crypto critics often view cryptos through the lense of logic and science. Cryptocurrencies often don't solve any particular inefficiencies. They exist because we like to create them. For example, Bitcoin was created to enable us send money without relying on a mint authority. Cryptos represent some ideas, philosophies, inventions that we want to make. Maybe some techniques in crypto space can be transformed later to solve real world problems. But they don't have to be. They exist for intellectual curiosity.
+Crypto critics often view cryptos through the lense of logic and science. Cryptocurrencies often don't solve any particular inefficiencies. They exist because we like to create them. For example, Bitcoin was created to enable us send money without relying on a mint authority. Cryptos represent some ideas, philosophies, inventions that we want to make. Maybe some techniques in crypto space can be transformed later to solve real-world problems. But they don't have to be. They exist for intellectual curiosity.
 
 ### Successful cryptos solve specific problems
 
-I view cryptos as arts. But some of them can make impact on real world. I believe the most important factor for success is specialization. Cryptocurrencies can become successful if they solve specific problems.
+I view cryptos as arts. But some of them can make an impact on the real world. I believe the most important factor for success is specialization. Cryptocurrencies can become successful if they solve specific problems.
 
 Bitcoin is successful because it serves only as a Store of Value. Some people believe that Bitcoin will take over the financial system. If Bitcoin wants to continue its success, it needs to remain as a Store of Value. Bitcoin Core developer, Pieter Wuille, highlighted in a tweet.
 
@@ -42,6 +42,6 @@ There are cryptocurrencies that want to be platforms: Ethereum, EOS. I think the
 
 There're 3 factors that decide a cryptocurrency success: specialization, specialization, specialization.
 
-PS: If you ever wonder what Bitflate is specialized in, here's Bitflate use case. It seeks to be a digital native stablecoin through inflation. People use Bitflate for transaction. Inflation discourages HODL and encourages users to transact.
+PS: If you ever wonder what Bitflate is specialized in, here's Bitflate use case. It seeks to be a digital native stablecoin through inflation. People use Bitflate for transactions. Inflation discourages HODL and encourages users to transact.
 
 *Bitflate is a cryptocurrency with constant inflation of 7% per year. Its goal is to be a Medium of Exchange.*
