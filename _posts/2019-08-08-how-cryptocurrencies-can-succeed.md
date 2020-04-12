@@ -12,9 +12,9 @@ author: Phuoc Do
 
 Ten years after the Bitcoin white paper introduction, cryptocurrencies have not gone mainstream. Crypto aficionados remain bullish that Bitcoin will take over the world financial system. They enforce their views on the world, remain a stubborn minority. They hope that their stubbornness will eventually prevail.
 
-Lindy effect says that life expectancy of something is its current age. Perhaps, there is a non-Lindy effect: the expected occurrence of something is, at least, now plus its current waiting time. If we've been waiting for 2000 years for judgement day, its expected occurrence is, at least, year 4000.
+Lindy effect says that life expectancy of something is its current age. Perhaps, there is a non-Lindy effect: the expected occurrence of something is, at least, now plus its current waiting time. If we've been waiting for 2000 years for judgment day, its expected occurrence is, at least, year 4000.
 
-Bitcoin has been a Store of Value for the past ten years. Lindy effect implies that it will remain as a Store of Value. It will never become a token for transactions. We need to accept this and develop new thinking to increase adoption of cryptocurrencies. Bitcoin as a Store of Value is a success. It hints an important attribute for success: specialization.
+Bitcoin has been a Store of Value for the past ten years. Lindy effect implies that it will remain as a Store of Value. It will never become a token for transactions. We need to accept this and develop new thinking to increase the adoption of cryptocurrencies. Bitcoin as a Store of Value is a success. It hints an important attribute for success: specialization.
 
 ### Cryptos are solutions looking for problems
 
@@ -24,7 +24,7 @@ Since the invention of paper money, we've developed payment systems that work we
 
 ### Cryptos are kinda like arts
 
-Crypto critics often view cryptos through the lense of logic and science. Cryptocurrencies often don't solve any particular inefficiencies. They exist because we like to create them. For example, Bitcoin was created to enable us send money without relying on a mint authority. Cryptos represent some ideas, philosophies, inventions that we want to make. Maybe some techniques in crypto space can be transformed later to solve real-world problems. But they don't have to be. They exist for intellectual curiosity.
+Crypto critics often view cryptos through the lens of logic and science. Cryptocurrencies often don't solve any particular inefficiencies. They exist because we like to create them. For example, Bitcoin was created to enable us to send money without relying on a mint authority. Cryptos represent some ideas, philosophies, inventions that we want to make. Maybe some techniques in crypto space can be transformed later to solve real-world problems. But they don't have to be. They exist for intellectual curiosity.
 
 ### Successful cryptos solve specific problems
 
@@ -34,13 +34,13 @@ Bitcoin is successful because it serves only as a Store of Value. Some people be
 
 [https://twitter.com/pwuille/status/1157339432753565702](https://twitter.com/pwuille/status/1157339432753565702)
 
-> As far as tokens goes... for now, Bitcoin's security depends on its exchange rate (because the subsidy is expressed in BTC). Using the chain for activities that only benefit unrelated assets in a way to competes with its use for BTC is in conflict with security and survival.
+> As far as tokens go... for now, Bitcoin's security depends on its exchange rate (because the subsidy is expressed in BTC). Using the chain for activities that only benefit unrelated assets in a way to competes with its use for BTC is in conflict with security and survival.
 
 Some good specialized coins I see currently: Bitcoin, Zcash, Monero, Dogecoin.
 
-There are cryptocurrencies that want to be platforms: Ethereum, EOS. I think the challenge for them is insurmountable. Not only do they need to maintain their stack, they need to find specific problems to solve. The stack becomes too bloated. When someone wants to create a new cryptocurrency, it may be better to start from scratch than building on a bloated stack.
+Some cryptocurrencies want to be platforms: Ethereum, EOS. I think the challenge for them is insurmountable. Not only do they need to maintain their stack, they need to find specific problems to solve. The stack becomes too bloated. When someone wants to create a new cryptocurrency, it may be better to start from scratch than building on a bloated stack.
 
-There're 3 factors that decide a cryptocurrency success: specialization, specialization, specialization.
+Three factors decide a cryptocurrency success: specialization, specialization, specialization.
 
 PS: If you ever wonder what Bitflate is specialized in, here's Bitflate use case. It seeks to be a digital native stablecoin through inflation. People use Bitflate for transactions. Inflation discourages HODL and encourages users to transact.
 
