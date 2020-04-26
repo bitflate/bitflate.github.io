@@ -24,11 +24,11 @@ For Bitflate cryptocurrency, I see two incentives: Bitflate Reward System and Bi
 
 ### Bitflate Reward System
 
-Although Bitflate chain has inflation, I design a reward system to give more coins to early adopters. The idea is to encourage people to hold on to their coins and create some restriction of supply. I think this create incentives to hold Bitflate coins early on. This way people with coins don't dump them. The reward system is as follows:
+Although Bitflate chain has inflation, I design a reward system to give more coins to early adopters. The idea is to encourage people to hold on to their coins and create some restriction of supply. This bootstrap mechanism creates incentives to hold Bitflate coins early on. The reward system is as follows:
 
-- 0: 50 (supply: 10 million)
-- 1: 25 (supply: 15 million)
-- 2: 12.5
+- 0: 50 (supply: ~10 million)
+- 1: 25 (supply: ~15 million)
+- 2: 12.5 (supply: ~18 million)
 - 3: 6.25 (end of halving)
 - 4: 6.56 (start of inflation 7%)
 - 5: 7.02
@@ -36,9 +36,9 @@ Although Bitflate chain has inflation, I design a reward system to give more coi
 - 7: 8.04
 - 8: 8.60
 - 9: 9.20
-- 10: 9.85 (supply: 31 million)
+- 10: 9.85 (supply: ~31 million)
 
-For the first 3 halvings, Biflate follows the same reward schedule as Bitcoin. But it will switch to inflation after 4 halvings. I think the reward schedule create incentives to hold Bitflate coins early on before Bitflate reaches critical mass. Even with inflation, it will take 10 years for supply to reach 31 million coins.
+For the first 3 halvings, Biflate follows the same reward schedule as Bitcoin. But it will switch to inflation after 3 halvings. The reward schedule create incentives to hold Bitflate coins before Bitflate reaches critical mass. Even with inflation, it will take 10 years for supply to reach 31 million coins.
 
 ### Bitflate Adoption Rate
 
