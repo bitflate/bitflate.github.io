@@ -16,9 +16,9 @@ We're seeing oil and commodity price crash. There are reports of farmers [dumpin
 
 ### Inflation
 
-Bitcoin may see price appreciation in this crisis. It's a digital and possibly uncorrelated asset. It's not affected by the problems that we experience in the physical world. It's an escape pod. However, Bitcoin remains a speculative asset in the shot-term. It's not going to relieve the problems that we face daily. The Coronavirus crisis has shown that inflation is not always bad.
+Bitcoin may see price appreciation in this crisis. It's a digital and possibly uncorrelated asset. It's not affected by the problems that we experience in the physical world. It's an escape pod. However, Bitcoin remains a speculative asset in the short-term. It's not going to relieve the problems that we face daily. The Coronavirus crisis has shown that inflation is not always bad.
 
-Bitcoin's shrinking reward and extreme limited supply make it very volatile. It's not suitable to be a Medium of Exchange. Crypto builders overlook this property. They think technology improvements like sidechain and programmability will drive cryptocurrency adoption. Since the Bitcoin's introduction, we've seen a lot of proposals for technology improvements. None of them has made cryptocurrency easier to use and drive adoption outside speculation.
+Bitcoin's shrinking reward and extremely limited supply make it very volatile. It's not suitable to be a Medium of Exchange. Crypto builders overlook this property. They think technology improvements like sidechain and programmability will drive cryptocurrency adoption. Since the Bitcoin's introduction, we've seen a lot of proposals for technology improvements. None of them has made cryptocurrency easier to use and drive adoption outside speculation.
 
 We need to abandon dogma and embrace economic changes in cryptocurrency. We need to reject Austrian economics as the only viable principle. If you study the Great Depression closely, you will see that deflation is a vicious threat. It can prolong economic hardship. Inflation has its role. If governments can distribute stimulus fairly, they can drive economic activities. The US government under Franklin D. Roosevelt overcame this challenge. It's time for us to devise solutions for this crisis.
 
