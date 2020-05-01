@@ -30,7 +30,7 @@ I design a reward system to give more coins to early adopters. This bootstrap me
 
 ### Bitflate is minimalistic
 
-I've followed cryptocurrency for a few years. I conclude that previous experiments with the technology produces little to nothing. These failed experiments are lessons on what we don't need. Litecoin proved that mining algorithm changes don't not matter. Ethereum proved that sidechains don't create new use cases. These altcoins were too early. They're not solving the problem that hinders adoption. I think the lack of adoption is because of volatility. The cause of volatility is limited supply. We need a predictable and constant inflation.
+I've followed cryptocurrency for a few years. I conclude that previous experiments with the technology produces little to nothing. These failed experiments are lessons on what we don't need. Litecoin proved that mining algorithm changes don't matter. Ethereum proved that sidechains don't create new use cases. These altcoins were too early. They're not solving the problem that hinders adoption. I think the lack of adoption is because of volatility. The cause of volatility is limited supply. We need a predictable and constant inflation.
 
 I want to come back to the minimal form of cryptocurrency, Bitcoin. We don't need more technology. Technology improvements are distractions. Bitflate is minimalistic. We only need a change in the monetary policy. The goal is to create another form of money, a Medium of Exchange.
 
