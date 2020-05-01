@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Bitcoin is a Store of Value"
+title:  "Bitcoin Is a Store of Value"
 date:   2020-03-17 10:00:00 -0700
 categories: post
 author: Phuoc Do

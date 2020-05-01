@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "How Bitflate is Different"
+title:  "How Bitflate Is Different"
 date:   2020-05-01 10:00:00 -0700
 categories: post
 author: Phuoc Do
