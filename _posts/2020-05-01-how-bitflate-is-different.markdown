@@ -34,7 +34,7 @@ I've followed cryptocurrency for a few years. I conclude that previous experimen
 
 I want to come back to the minimal form of cryptocurrency, Bitcoin. We don't need more technology. Technology improvements are distractions. Bitflate is minimalistic. We only need a change in the monetary policy. The goal is to create another form of money, a Medium of Exchange.
 
-### Bitflate's goal is to be a Medium of Exchange
+### A Medium of Exchange
 
 Previous experiments, like tail emission, have not fully committed to the idea of inflation. Dev teams and communities are afraid of price crash. They hold on to the idea of a highly restrictive supply. Why do we need inflation? A constant inflation rate will reduce volatility. Inflation is the missing ingredient in cryptocurrency. It is the key to create a Medium of Exchange. That's the breakthrough we need for widespread cryptocurrency adoption.
 
