@@ -21,6 +21,19 @@ I came across a short [video clip](https://twitter.com/johnkvallis/status/125741
 
 The comment implies that Bitcoin would become stable without the need for inflation.
 
+### The (false) hope that Bitcoin price would become stable
+
+When I transact, I always convert BTC to USD. I check how much the transactions cost in terms of real-world money. The question to ask is whether volatility will go away at some point. It's clear to me that the answer is No.
+
+- 1 million: Too small. Explanation: Volatility will go away when we reach 1B.
+- 1 billion: A little bigger but still small. Explanation: Volatility will go away when we reach 100B.
+- 100 billion: We are here, volatility is still here. Explanation: Volatility will go away when we reach 1T.
+- 1 trillion: Game changer?
+- 10 trillion: Definitely big. Hope: volatility will go away (likely false).
+- 100 trillion: World's money. Hope: volatility will go away (likely false).
+
+Bitcoiners like to talk about price. But when it comes to volatility, they'd avoid it by giving vague answers and false hopes. Volatility is an inherent property of Bitcoin's supply design. It'll be here forever.
+
 ### Deflation, inflation and volatility
 
 I don't think Bitcoin's price volatility will go down. I started the Bitflate experiment to fix this problem. The purpose of this experiment is to prove that inflation has a price stabilizing effect. My point was proven during March 2020 when Bitcoin's price crashed more than 50%. Bitcoin's price volatility went up to a level not seen since 2014. [Source](https://www.buybitcoinworldwide.com/volatility-index/)
