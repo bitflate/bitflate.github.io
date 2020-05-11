@@ -31,6 +31,6 @@ Bitflate is still a small experiment. It's early to declare victory. But I think
 
 <img src="/assets/images/JohnVallis5Year.png" alt="JohnVallis5Year" style="border: 1px solid #aaa" />
 
-If Bitcoin's price volatility goes down by then, I will admit that I am wrong. The Bitflate experiment will fold. Until then, let's enjoy the ride.
+John Vallis set a reminder in 5 years. If Bitcoin's price volatility goes down by then, I will admit that I am wrong. The Bitflate experiment will fold. Until then, let's enjoy the ride.
 
 *Bitflate is a cryptocurrency with constant inflation of 7% per year. Its goal is to be a Medium of Exchange.*
