@@ -18,12 +18,12 @@ These are third party sites.
 
 CoinDataFlow
 
-<a href="https://coindataflow.com/en/currency/bitflate" target="_blank"><img src="https://coindataflow.com/images/png/cdf_color.png" alt="Coin Data Flow" width="200"></a>
+<a href="https://coindataflow.com/en/currency/bitflate" target="_blank"><img src="https://coindataflow.com/images/png/cdf_color.png" alt="Coin Data Flow" width="200" /></a>
 
 CoinGecko
 
-<a href="https://www.coingecko.com/en/coins/bitflate" target="_blank"><img src="https://static.coingecko.com/s/coingecko-branding-guide-4f5245361f7a47478fa54c2c57808a9e05d31ac7ca498ab189a3827d6000e22b.png" alt="CoinGecko" width="200"></a>
+<a href="https://www.coingecko.com/en/coins/bitflate" target="_blank"><img src="https://static.coingecko.com/s/coingecko-branding-guide-4f5245361f7a47478fa54c2c57808a9e05d31ac7ca498ab189a3827d6000e22b.png" alt="CoinGecko" width="200" /></a>
 
 CoinMarketCap
 
-<a href="https://coinmarketcap.com/currencies/bitflate/" target="_blank"><img src="https://s2.coinmarketcap.com/static/cloud/img/coinmarketcap_1.svg?_=10de7a8" alt="CoinGecko" width="200"></a>
+<a href="https://coinmarketcap.com/currencies/bitflate/" target="_blank"><img src="https://s2.coinmarketcap.com/static/cloud/img/coinmarketcap_1.svg?_=10de7a8" alt="CoinGecko" width="200" /></a>
