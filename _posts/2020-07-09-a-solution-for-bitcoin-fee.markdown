@@ -20,4 +20,4 @@ At the time of this Bit3 issuance, 1 Bitcoin is equivalent to 1.4 Bitflate (30 m
 
 In 2040, Bitflate supply will reach 60 million. To issue a Bit3 coin, we'll need a different mix. 1 Bitcoin is equivalent to 2.8 Bitflate. We'd need a mix ratio of 1 Bitcoin and 2.4 Bitflate.
 
-By using a mix of Bitcoin and Bitflate, we can issue coins with any inflation rate between 0% and 7%. As builders, we no longer have the problem of deciding the inflation rate. The market can decide. The mixed coins with inflation are better suited for lending and staking. They will generate new businesses. They will create demand for Bitcoin transactions.
+By using a mix of Bitcoin and Bitflate, we can issue coins with any inflation rate between 0% and 7%. As builders, we no longer have the problem of deciding the inflation rate. The market can decide what it wants. The mixed coins with inflation are better suited for lending and staking. They will generate new businesses. They will create demand for Bitcoin transactions.
