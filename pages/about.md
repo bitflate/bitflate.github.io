@@ -13,7 +13,7 @@ Technical
 
 Bitflate is based on Bitcoin. It has the following differences:
 
-- It creates 19.3 million coins in the first halving.
+- It creates 19.3 million coins in the first three halvings.
 - Proof of Work timespan adjustment is 3.5 days.
 - Block time is 2.5 minutes. It has 1-year halving interval.
 - In subsequent halvings, coins inflate 7% per year. At this inflation rate, coin supply doubles - every 10 years.
