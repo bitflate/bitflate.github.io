@@ -30,7 +30,7 @@ To construct the symbols, we start with 2 basic symbols: yin (&#x2012; &#x2012;)
   <br/>
 </div>
 
-We can interpret a phenomenon using Yin and Yang. Interpretations are subjective. They're not final truths. Yi Ching is a tool to help us understand.
+We can interpret a phenomenon using Yin and Yang. Interpretations are subjective. They're not final truths. Yi Ching is a tool to help us understand. Here are more examples of Yin and Yang.
 
 <div style="text-align: center">
   <br/>
@@ -134,11 +134,11 @@ Yi Ching is not very popular in Western philosophy. But Western scholars occasio
 
 It's important to remember that Yi Ching sets the rules. People derive interpretations. There're forms of divination related to Yi Ching. But they can lead to superstitious beliefs. Within Chinese philosophy traditions, neo-Confucianism rejects superstitious and mystical elements. Yi Ching points us to a direction that follows the flow between Yin and Yang. It does not and cannot predict the exact event that will happen.
 
-Yi Ching provides a framework. It's an exercise. We can apply it to situations. It can often help us understand why things evolve in their ways.
+Yi Ching provides a framework. It's an exercise. We can apply it to situations. It can often help us understand why things evolve.
 
 ### System Architecture and Governance
 
-We now have a basic understanding of Yi Ching. Let's apply the concepts to system architecture. Yi Ching provides a useful framework to evaluate governance between centralization and decentralization. It can help us understand the trade-offs between different designs. Here's an example of how computing architecture has evolved.
+We now have a basic understanding of Yi Ching. Let's apply the concept to system architecture. Yi Ching provides a useful framework to evaluate governance between centralization and decentralization. It can help us understand the trade-offs between different designs. Here's an example of how computing architecture has evolved.
 
 <div style="text-align: center">
   <img src="/assets/images/ComputingArchitectureIChing.png" alt="Computing Architecture" width="auto" />
@@ -147,7 +147,7 @@ We now have a basic understanding of Yi Ching. Let's apply the concepts to syste
   <br/>
 </div>
 
-We can see computing architecture has been made through cycles of centralization and decentralization. We're currently in the Cloud Computing phase. It's possibly the end of this phase with the consolidation of technology companies. According to the flow, we should expect to see some decentralization in the next decade. I think this change has already started with the advent of Bitcoin. People often think centralization is bad or decentralization is bad. Interpretations are usually subjective and dependent on situations. But centralization and decentralization are concepts. They're not good or bad. Misunderstanding and false promises are bad. For example, when we misread centralization as bringing more choices. With centralization, we gain efficiency but our choices are reduced. With decentralization, we lose efficiency in exchange for more choices.
+We can see computing architecture has been made through cycles of centralization and decentralization. We're currently in the Cloud Computing phase. We're probably at the end of this phase with the consolidation of technology companies. According to the flow, we should expect to see more decentralization in the next decade. I think this change has already started with the advent of Bitcoin. People often think centralization is bad or decentralization is bad. Interpretations are usually subjective and dependent on situations. But centralization and decentralization are concepts. They're neither good nor bad. Misunderstanding and false promises are bad. For example, we think centralization offers more choices. It does not. With centralization, we gain efficiency but our choices are reduced. With decentralization, we lose efficiency in exchange for more choices.
 
 Let's examine some trade-offs between centralization and decentralization. Here are some opposite properties.
 
