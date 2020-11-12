@@ -9,7 +9,9 @@ author: Phuoc Do
 Bitflate is a fork of Bitcoin. We can reuse software components from Bitcoin. The infrastructure for Bitflate is still limited. As of today, we can do the following:
 
 * Use the Bitflate Core Client.
+
 * Mine Bitflate (BFL) coins on mining-dutch or cminor pools. Pools come with online wallets. Check pools' documentation for wallet use.
+
 * Buy and sell BFL coins on Unnamed Exchange. This exchanges comes with online wallets. Check its documentation for wallet use.
 
 In this article, I describe a method for securing your own Bitflate coins (BFL). I use the Bitflate Core Client. With the client, you can store your coins locally on your computer. You can backup your coins into USB devices. This method is still based on software. As of today, Bitflate is experimental. There are security risks. A good security practice: Use a dedicated computer. You can avoid bugs and potential malware in the client to interfere with your computer. You can also avoid other software to interfere with the Bitflate Core Client.
@@ -18,7 +20,9 @@ In this article, I describe a method for securing your own Bitflate coins (BFL).
 
 * Download a Bitflate Core Client from github. The current release is v0.20.0. Pick the release for your OS.
 [https://github.com/bitflate/bitflate/releases/tag/v0.20.0](https://github.com/bitflate/bitflate/releases/tag/v0.20.0)
+
 * Unzip or install the client on your machine.
+
 * Start your Bitflate Core Client daemon. For example, on Linux, use the following command:
 
 ```
