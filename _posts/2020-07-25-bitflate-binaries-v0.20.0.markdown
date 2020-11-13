@@ -39,11 +39,11 @@ For testnet:
 ./bin/bitflate-qt -testnet
 ```
 
-If your client has trouble finding nodes, use --addnode= argument.
+If your client has trouble finding nodes, use -addnode= argument.
 
 ```
 # addnode s1 seed
-./bin/bitflated --addnode=159.203.68.109
+./bin/bitflated -addnode=159.203.68.109
 ```
 
 Bitflate comes with bitflate-cli, it has the same capability as bitcoin-cli. For brevity,
