@@ -1,22 +1,27 @@
 ---
 layout: post
-title:  "Bitflate Binaries v0.20.0"
-date:   2020-07-25 10:00:00 -0700
+title:  "Bitflate Binaries v0.20.2"
+date:   2021-01-24 10:00:00 -0700
 categories: post
 author: Phuoc Do
 ---
 
-**Important: Please backup your datadir and wallet before upgrading**
+**Important: Please backup your datadir and wallet before upgrading.**
 
-We have a new release for Bitflate Core client.
+We have a new release for Bitflate Core client, v0.20.2. This release is a step ahead of Bitcoin Core client. It includes the pchMessageStart fix. This fix prevents Bitflate Core clients from connecting to Bitcoin Core clients. You can see Bitcoin Core v0.20.1 release notes for changes:
 
-For other notable changes in v0.20.0, see Bitcoin Core release notes:
-
-[Bitcoin Core 0.20.0 Release Notes](https://bitcoin.org/en/release/v0.20.0)
+[Bitcoin Core 0.20.1 Release Notes](https://bitcoin.org/en/release/v0.20.1)
 
 You can download Bitflate binaries here:
 
-[Bitflate 0.20.0](https://github.com/bitflate/bitflate/releases/tag/v0.20.0)
+[Bitflate 0.20.2](https://github.com/bitflate/bitflate/releases/tag/v0.20.2)
+
+**Important: This release requires a reindex of your local blockchain. Please backup before running reindex.**
+
+```
+# addnode s1 seed and reindex
+./bin/bitflated -addnode=159.203.68.109 -reindex
+```
 
 Bitflate network currently has two seed nodes:
 

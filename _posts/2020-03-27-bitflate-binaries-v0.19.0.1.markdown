@@ -6,6 +6,8 @@ categories: post
 author: Phuoc Do
 ---
 
+**Important: Please backup your datadir and wallet before upgrading**
+
 We have a new release for Bitflate Core client. This release notable change in Bitflate is burying of SegWit at block 28224.
 
 For other notable changes in v0.19.0.1, see Bitcoin Core release notes:
