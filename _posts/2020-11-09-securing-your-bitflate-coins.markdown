@@ -19,7 +19,7 @@ In this article, I describe a method for securing your own Bitflate coins (BFL).
 ### Take Ownership of Your Coins
 
 * Download a Bitflate Core Client from github. The current release is v0.20.0. Pick the release for your OS.
-[https://github.com/bitflate/bitflate/releases/tag/v0.20.0](https://github.com/bitflate/bitflate/releases/tag/v0.20.0)
+[https://github.com/bitflate/bitflate/releases](https://github.com/bitflate/bitflate/releases)
 
 * Unzip or install the client on your machine.
 
