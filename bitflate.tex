@@ -149,8 +149,8 @@ If a hybrid cryptocurrency has more Bitcoin than Bitflate, it retains more value
     \node[draw] (Bitflate) at ($(Bitcoin)+(6,0)$) {$Bitflate$};
     \node[squarednode] (Store of Value) at ($(Bitcoin)+(0,-2)$) {$Store\ of\ Value\ (0\%)$};
     \node[squarednode] (Medium of Exchange) at ($(Bitcoin)!1!(Bitflate)+(0,-2)$) {$Medium\ of\ Exchange\ (7\%)$};
-    \node[squarednode] (Stable) at ($(Bitcoin)+(0,-4)$) {$Stable$};
-    \node[squarednode] (Volatile) at ($(Bitcoin)!1!(Bitflate)+(0,-4)$) {$Volatile$};
+    \node[squarednode] (Volatile) at ($(Bitcoin)+(0,-4)$) {$Volatile$};
+    \node[squarednode] (Stable) at ($(Bitcoin)!1!(Bitflate)+(0,-4)$) {$Stable$};
     \node[textnode] at ($(Bitcoin)+(3,0.5)$) {$Digital\ Cash$};
     % arrows
     \draw [->] (Bitcoin) -- (Bitflate);
