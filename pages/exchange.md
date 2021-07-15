@@ -26,4 +26,8 @@ CoinGecko
 
 CoinMarketCap
 
-<a href="https://coinmarketcap.com/currencies/bitflate/" target="_blank"><img src="https://s2.coinmarketcap.com/static/cloud/img/coinmarketcap_1.svg?_=10de7a8" alt="CoinGecko" width="200" /></a>
+<a href="https://coinmarketcap.com/currencies/bitflate/" target="_blank"><img src="https://s2.coinmarketcap.com/static/cloud/img/coinmarketcap_1.svg?_=10de7a8" alt="CoinMarketCap" width="200" /></a>
+
+CoinMarketLeague
+
+<a href="https://www.coinmarketleague.com/coin/bitflate" target="_blank"><img src="https://www.coinmarketleague.com/assets/logotype.png" alt="CoinMarketLeague" width="300" style="background: #162d4c" /></a>
