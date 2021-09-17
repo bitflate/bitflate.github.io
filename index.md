@@ -7,7 +7,6 @@ layout: home
 
 Bitflate is a crypto currency with constant inflation.
 Bitflate has inflated supply, a digital native stablecoin through inflation.
-The project is in experimental stage.
 
 Technical
 ----------------

@@ -80,4 +80,4 @@ Bitflate chain is separate and has no relationship with Bitcoin.
 
 #### Can I use Bitflate for business?
 
-Bitflate is at the experimental stage as of July 2019. We strongly advise you NOT to use it for business. The network is not secure.
+When the network hashrate is low, please wait for more confirmations before consider transactions finalized.
