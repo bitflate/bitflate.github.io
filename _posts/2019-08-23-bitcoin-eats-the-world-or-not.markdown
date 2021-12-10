@@ -3,7 +3,7 @@ layout: post
 title:  "Bitcoin Eats the World, or Not"
 date:   2019-08-23 21:13:00 -0700
 categories: post
-author: Phuoc Do
+author: doph
 ---
 
 *Bitflate is a cryptocurrency with constant inflation of 7% per year. Its goal is to be a Medium of Exchange.*

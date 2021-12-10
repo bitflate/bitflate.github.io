@@ -3,7 +3,7 @@ layout: post
 title:  "Bitflate Binaries v0.20.0"
 date:   2020-07-25 10:00:00 -0700
 categories: post
-author: Phuoc Do
+author: doph
 ---
 
 **Important: Please backup your datadir and wallet before upgrading**

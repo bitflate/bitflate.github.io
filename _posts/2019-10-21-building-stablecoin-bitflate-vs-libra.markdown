@@ -3,7 +3,7 @@ layout: post
 title:  "Building Stablecoin: Bitflate vs. Libra"
 date:   2019-10-21 17:22:00 -0700
 categories: post
-author: Phuoc Do
+author: doph
 ---
 
 *Bitflate is a cryptocurrency with constant inflation of 7%. It's designed to be a digital native and decentralized stablecoin. Price stabilization is done through inflation.*

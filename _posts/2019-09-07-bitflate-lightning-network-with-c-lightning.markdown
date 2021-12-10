@@ -3,7 +3,7 @@ layout: post
 title:  "Bitflate Lightning Network with c-lightning"
 date:   2019-09-07 12:59:00 -0700
 categories: post
-author: Phuoc Do
+author: doph
 ---
 
 Bitflate is a Bitcoin fork with constant inflation. Since it is updated frequently with Bitcoin Core code base, it has Lightning Network support. Bitflate mainnet activated SegWit at 28k block. In this article, we describe how to use c-lightning on Bitflate testnet. You can use it on mainnet.

@@ -3,7 +3,7 @@ layout: post
 title:  "Bitflate Solo Mining with GekkoSicence NewPac USB"
 date:   2019-07-21 15:44:00 -0700
 categories: post
-author: Phuoc Do
+author: doph
 ---
 
 I assume you have downloaded Bitflate binaries. If not, see this article:

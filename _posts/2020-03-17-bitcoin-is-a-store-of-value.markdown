@@ -3,7 +3,7 @@ layout: post
 title:  "Bitcoin Is a Store of Value"
 date:   2020-03-17 10:00:00 -0700
 categories: post
-author: Phuoc Do
+author: doph
 ---
 
 *Bitflate is a cryptocurrency with constant inflation of 7% per year. Its goal is to be a Medium of Exchange.*

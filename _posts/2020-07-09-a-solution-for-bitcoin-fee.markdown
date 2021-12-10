@@ -3,7 +3,7 @@ layout: post
 title:  "A Solution for Bitcoin Fee"
 date:   2020-07-09 10:00:00 -0700
 categories: post
-author: Phuoc Do
+author: doph
 ---
 
 Bitcoin has a potential problem in its security model. The block reward is an incentive for miners to provide hash power. But this reward halves every 4 years. It'll become zero around 2140. At that point, miners will need to rely on transaction fees to pay for their hash power. Some people think a fee market will develop to support mining.

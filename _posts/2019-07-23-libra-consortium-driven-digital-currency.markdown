@@ -3,7 +3,7 @@ layout: post
 title:  "Libra is a Consortium Driven Digital Currency"
 date:   2019-07-23 11:44:00 -0700
 categories: post
-author: Phuoc Do
+author: doph
 ---
 
 *Bitflate is a cryptocurrency with constant inflation of 7% per year. Its goal is to be a Medium of Exchange.*

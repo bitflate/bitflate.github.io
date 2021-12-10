@@ -3,7 +3,7 @@ layout: post
 title:  "Inflating Crypto and Inflating Fiat"
 date:   2019-11-13 21:59:00 -0700
 categories: post
-author: Phuoc Do
+author: doph
 ---
 
 *Bitflate is a cryptocurrency with constant inflation of 7% per year. Its goal is to be a Medium of Exchange.*

@@ -3,7 +3,7 @@ layout: post
 title:  "Securing Your Bitflate Coins"
 date:   2020-11-09 10:00:00 -0700
 categories: post
-author: Phuoc Do
+author: doph
 ---
 
 Bitflate is a fork of Bitcoin. We can reuse software components from Bitcoin. The infrastructure for Bitflate is still limited. As of today, we can do the following:

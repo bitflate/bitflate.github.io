@@ -3,7 +3,7 @@ layout: post
 title:  "Bitcoin Will Not Be a Medium of Exchange"
 date:   2019-11-24 10:00:00 -0700
 categories: post
-author: Phuoc Do
+author: doph
 ---
 
 *Bitcoin is "good" money. It's too good that "bad" money will crowd it out of circulation.*

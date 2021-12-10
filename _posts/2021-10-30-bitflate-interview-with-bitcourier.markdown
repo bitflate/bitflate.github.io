@@ -3,7 +3,7 @@ layout: post
 title:  "Bitflate Interview with BitCourier"
 date:   2021-10-30 10:00:00 -0700
 categories: post
-author: Phuoc Do
+author: doph
 ---
 
 BitCourier is a Bitcoin news website based in the UK. They reached out to me. We did an interview about Bitflate.

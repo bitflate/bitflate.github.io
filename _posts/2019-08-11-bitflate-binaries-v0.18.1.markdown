@@ -3,7 +3,7 @@ layout: post
 title:  "Bitflate Binaries v0.18.1"
 date:   2019-08-11 14:23:00 -0700
 categories: post
-author: Phuoc Do
+author: doph
 ---
 
 You can download Bitflate binaries here:

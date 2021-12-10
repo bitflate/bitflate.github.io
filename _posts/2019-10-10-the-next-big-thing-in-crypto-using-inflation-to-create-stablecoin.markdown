@@ -3,7 +3,7 @@ layout: post
 title:  "The Next Big Thing in Crypto: Using Inflation to Create Stablecoin"
 date:   2019-10-10 15:52:00 -0700
 categories: post
-author: Phuoc Do
+author: doph
 ---
 
 *Bitflate is a cryptocurrency with constant inflation of 7% per year. Its goal is to be a Medium of Exchange.*

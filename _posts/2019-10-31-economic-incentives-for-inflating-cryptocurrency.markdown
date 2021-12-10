@@ -3,7 +3,7 @@ layout: post
 title:  "Economic Incentives for Inflating Cryptocurrency"
 date:   2019-10-31 21:18:00 -0700
 categories: post
-author: Phuoc Do
+author: doph
 ---
 
 *Bitflate is a cryptocurrency with constant inflation of 7% per year. Its goal is to be a Medium of Exchange.*
