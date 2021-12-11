@@ -1,10 +1,10 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Technical
+permalink: /technical/
 ---
 
-Bitflate is a Bitcoin-based crypto currency. Bitflate has inflated supply. We want to create a digital native stablecoin through inflation.
+Bitflate has inflationary supply. We want to create a digital native stablecoin through inflation.
 
 [Bitflate Source Code](https://github.com/bitflate)
 
