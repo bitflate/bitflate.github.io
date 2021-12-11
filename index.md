@@ -13,6 +13,6 @@ You might think "Hold on, a crypto with inflation? Isn't that what keeps my mone
 
 Inflation may be a contrary feature to a major premise of other cryptocurrencies regarding their absolute scarcity, but it can also be seen as an economist's tool for creating price control. A 0-7% inflation range can be pursued by mixing Bitflate with bitcoin [Hybrid Coins](https://bitflate.org/post/2020/07/17/hybrid-coins.html). By incorporating inflation from Bitflate with bitcoin-backed services, the added stabilizing effect may result in fair and expectable conditions - which in turn gives way for a greater variety of loan offerings.
 
-That's exactly why we have created Bitflate: A digital native stable coin through inflation.
+That's exactly why we have created Bitflate: A digital native stable coin from inflation.
 
 Bitflate is based on Bitcoin, and will have its code regularly updated with the latest Bitcoin developments.
