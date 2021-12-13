@@ -8,7 +8,7 @@ author: doph
 
 *Bitflate is a cryptocurrency with constant inflation of 7% per year. Its goal is to be a Medium of Exchange.*
 
-This is my view of the next big thing in crypto. Bitcoin is digital gold. It has a limited supply of 21 million coins. Therefore, its price fluctuates. Payment Cryptos are cryptocurrencies designed to avoid price volatility. Existing payment cryptos are issued by centralized authorities. This mechanism defeats the ethos of cryptocurrency. In order to access decentralized cryptocurrency, we need to rely on centralized authorities to issue digital payment cryptos.
+This is my view of the next big thing in crypto. Bitcoin is digital gold. It has a limited supply of 21 million coins. Therefore, its price fluctuates. Payment Cryptos are cryptocurrencies designed to avoid price volatility. Existing stablecoins are issued by centralized authorities. This mechanism defeats the ethos of cryptocurrency. In order to access decentralized cryptocurrency, we need to rely on centralized authorities to issue digital payment cryptos.
 
 ### A New Look at Inflation
 
@@ -22,7 +22,7 @@ People lament about inflation robbing your purchasing power. But historically, e
 
 Economies always have deflationary and inflationary assets. People often overlook this. Gold, real estate, moat, competitive advantages are some examples of deflationary assets. Inflationary currencies serve as a medium of exchange. They are used for transactions. Bitcoin was created in response to the 2008 economic crisis. It exists and thrives because of quantitative easing, a type of inflating monetary policy.
 
-Existing payment cryptos are inflationary digital currencies. They are pegged to fiat currencies. In the future, there will be two kinds of cryptocurrencies: deflationary and inflationary. For cryptocurrency to gain more adoption, we need a better kind of inflationary digital currency.
+Existing stablecoins are inflationary digital currencies. They are pegged to fiat currencies. In the future, there will be two kinds of cryptocurrencies: deflationary and inflationary. For cryptocurrency to gain more adoption, we need a better kind of inflationary digital currency.
 
 ### Bitflate - Digital Native Decentralized Payment Crypto
 

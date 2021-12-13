@@ -37,7 +37,7 @@ More info: [Bitflate - Cryptocurrency with Constant Inflation](https://bitflate.
 
 Bitcoin has fixed supply. The currency is deflationary. It causes price to fluctuate wildly. We think it is a good Store of Value (SoV). But for transactions, price fluctuation is a problem.
 
-Existing stable coins are typically implemented through bank ledger. This requires 3rd party centralized banks. We want to create a stable coin through inflation. We think inflation would add liquidity to Bitflate currency.
+Existing stablecoins are typically implemented through bank ledger. This requires 3rd party centralized banks. We want to create a payment crypto through inflation. We think inflation would add liquidity to Bitflate currency.
 
 #### Why Bitflate inflation rate is 7%?
 

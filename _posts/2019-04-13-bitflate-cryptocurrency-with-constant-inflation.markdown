@@ -23,7 +23,7 @@ be infinite.
 Bitcoin encourages HODL behavior. It's being seen as a Store of Value (SoV). We believe other 
 cryptocurrencies with a supply limit would behave as an SoV.
 
-The goal is to create a stable cryptocurrency, stable coin through inflation.
+The goal is to create a stable cryptocurrency, payment crypto through inflation.
 
 By adding inflation, we can:
 
@@ -61,7 +61,7 @@ FAQ
 
 Bitcoin has a fixed supply. The currency is deflationary. It causes the price to fluctuate wildly. We think it is a good Store of Value (SoV). But for transactions, price fluctuation is a problem.
 
-Existing stable coins are typically implemented through bank ledger. This requires 3rd party centralized banks. We want to create a stable coin through inflation. We think inflation would add liquidity to Bitflate currency.
+Existing stablecoins are typically implemented through bank ledger. This requires 3rd party centralized banks. We want to create a payment crypto through inflation. We think inflation would add liquidity to Bitflate currency.
 
 #### Why Bitflate inflation rate is 7%?
 
