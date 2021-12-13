@@ -26,7 +26,7 @@ I see the following emerging markets of cryptocurrencies.
 
 ### Centralized and Semi-Centralized Cryptocurrency
 
-On the centralization side, we will have improved centralized currencies and cryptocurrencies. Central banks will eventually integrate more technologies. They may record and publish their currency operation on a public digital ledger. Private companies have made strides in providing stablecoin connection between crypto and fiat. Tether is an example of stablecoin connecting crypto and fiat. Ripple and Stellar are trying to adapt crypto software for the traditional financial system.
+On the centralization side, we will have improved centralized currencies and cryptocurrencies. Central banks will eventually integrate more technologies. They may record and publish their currency operation on a public digital ledger. Private companies have made strides in providing payment crypto connection between crypto and fiat. Tether is an example of payment crypto connecting crypto and fiat. Ripple and Stellar are trying to adapt crypto software for the traditional financial system.
 
 Libra departs away from centralization. Facebook introduced the Libra Association which includes reputable members. Libra software is open source. Libra governance can be more transparent than other centralized currencies.
 

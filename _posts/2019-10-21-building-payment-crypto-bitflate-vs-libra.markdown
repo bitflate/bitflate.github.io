@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "Building Stablecoin: Bitflate vs. Libra"
+title:  "Building Payment Crypto: Bitflate vs. Libra"
 date:   2019-10-21 17:22:00 -0700
 categories: post
 author: doph
 ---
 
-*Bitflate is a cryptocurrency with constant inflation of 7%. It's designed to be a digital native and decentralized stablecoin. Price stabilization is done through inflation.*
+*Bitflate is a cryptocurrency with constant inflation of 7%. It's designed to be a digital native and decentralized payment crypto. Price stabilization is done through inflation.*
 
 *Libra is a cryptocurrency backed by Facebook. It is managed and operated by the Libra Association, a membership organization of companies and organizations.*
 
@@ -72,6 +72,6 @@ For Mainnet, I rate:
 
 ### Conclusion
 
-I think Bitflate and Libra are two categories of stablecoins. Each comes with their own advantages and disadvantages. However, they can both be beneficial to users. I hope both will succeed. I am optimistic and look forward to being able to use these currencies in the future.
+I think Bitflate and Libra are two categories of payment cryptos. Each comes with their own advantages and disadvantages. However, they can both be beneficial to users. I hope both will succeed. I am optimistic and look forward to being able to use these currencies in the future.
 
 *Bitflate is a cryptocurrency with constant inflation of 7% per year. Its goal is to be a Medium of Exchange.*

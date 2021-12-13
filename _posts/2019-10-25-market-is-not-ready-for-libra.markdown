@@ -24,15 +24,15 @@ As we move from Centralization and Decentralization, we get different kinds of c
 
 ### The potential of semi-centralized cryptocurrencies like Libra
 
-Libra is a semi-centralized cryptocurrency. It is a better version of centralized cryptocurrencies like Tether or USDC. These coins are issued by a single entity. There is no way to audit their record. We rather have a stablecoin issued by an association of companies. The Libra Association has a governing charter. It is beneficial for consumers having member companies audit the Libra record. These member companies have competing agenda. They serve as check and balance for consumers.
+Libra is a semi-centralized cryptocurrency. It is a better version of centralized cryptocurrencies like Tether or USDC. These coins are issued by a single entity. There is no way to audit their record. We rather have a payment crypto issued by an association of companies. The Libra Association has a governing charter. It is beneficial for consumers having member companies audit the Libra record. These member companies have competing agenda. They serve as check and balance for consumers.
 
 ### Libra is too early
 
 Unfortunately, Facebook initiated the Libra project. The company was involved in many data and privacy scandals. Consumer's trust in Facebook is low. Another hurdle for Libra adoption is the public's misunderstanding. Bitcoin is difficult to understand. Most people don't have time to dive into its details. Its price fluctuates wildly. They don't see benefits of cryptocurrencies. Bitcoin has as many critics as believers. The public has not accepted a crypto future. To normal people, Libra is another effort by big corporations to intrude and control their lives.
 
-### Filling the gap with Bitflate, a decentralized stablecoin
+### Filling the gap with Bitflate, a decentralized payment crypto
 
-Bitflate is a cryptocurrency with constant inflation rate of 7%. The project's goal is to create a digital native and decentralized stablecoin. By adding inflation, Bitflate price will not rise forever. It will have less price volatility. Bitflate can be a gentler introduction for people to the world of cryptocurrency.
+Bitflate is a cryptocurrency with constant inflation rate of 7%. The project's goal is to create a digital native and decentralized payment crypto. By adding inflation, Bitflate price will not rise forever. It will have less price volatility. Bitflate can be a gentler introduction for people to the world of cryptocurrency.
 
 ### Cryptocurrency Future
 

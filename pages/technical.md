@@ -4,7 +4,7 @@ title: Technical
 permalink: /technical/
 ---
 
-Bitflate has inflationary supply. We want to create a digital native stablecoin through inflation.
+Bitflate has inflationary supply. We want to create a digital native payment crypto through inflation.
 
 Bitflate is based on Bitcoin. It has the following differences:
 

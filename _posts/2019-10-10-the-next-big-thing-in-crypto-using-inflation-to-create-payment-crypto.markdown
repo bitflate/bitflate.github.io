@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The Next Big Thing in Crypto: Using Inflation to Create Stablecoin"
+title:  "The Next Big Thing in Crypto: Using Inflation to Create Payment Crypto"
 date:   2019-10-10 15:52:00 -0700
 categories: post
 author: doph
@@ -8,7 +8,7 @@ author: doph
 
 *Bitflate is a cryptocurrency with constant inflation of 7% per year. Its goal is to be a Medium of Exchange.*
 
-This is my view of the next big thing in crypto. Bitcoin is digital gold. It has a limited supply of 21 million coins. Therefore, its price fluctuates. Stablecoins are cryptocurrencies designed to avoid price volatility. Existing stablecoins are issued by centralized authorities. This mechanism defeats the ethos of cryptocurrency. In order to access decentralized cryptocurrency, we need to rely on centralized authorities to issue digital stablecoins.
+This is my view of the next big thing in crypto. Bitcoin is digital gold. It has a limited supply of 21 million coins. Therefore, its price fluctuates. Payment Cryptos are cryptocurrencies designed to avoid price volatility. Existing payment cryptos are issued by centralized authorities. This mechanism defeats the ethos of cryptocurrency. In order to access decentralized cryptocurrency, we need to rely on centralized authorities to issue digital payment cryptos.
 
 ### A New Look at Inflation
 
@@ -22,9 +22,9 @@ People lament about inflation robbing your purchasing power. But historically, e
 
 Economies always have deflationary and inflationary assets. People often overlook this. Gold, real estate, moat, competitive advantages are some examples of deflationary assets. Inflationary currencies serve as a medium of exchange. They are used for transactions. Bitcoin was created in response to the 2008 economic crisis. It exists and thrives because of quantitative easing, a type of inflating monetary policy.
 
-Existing stablecoins are inflationary digital currencies. They are pegged to fiat currencies. In the future, there will be two kinds of cryptocurrencies: deflationary and inflationary. For cryptocurrency to gain more adoption, we need a better kind of inflationary digital currency.
+Existing payment cryptos are inflationary digital currencies. They are pegged to fiat currencies. In the future, there will be two kinds of cryptocurrencies: deflationary and inflationary. For cryptocurrency to gain more adoption, we need a better kind of inflationary digital currency.
 
-### Bitflate - Digital Native Decentralized Stablecoin
+### Bitflate - Digital Native Decentralized Payment Crypto
 
 Bitflate is a new kind of cryptocurrency. It is a Bitcoin fork with an inflation rate of 7% per year. In its first four halvings, Bitflate blockchain will create 19.3 million coins. After that, its supply will inflate at 7% per year. Here’s the block reward schedule for the first 10 halvings:
 
@@ -42,7 +42,7 @@ Bitflate is a new kind of cryptocurrency. It is a Bitcoin fork with an inflation
 
 With inflation, there will not be a pressure to push price up too high. Bitflate blockchain uses Proof of Work. It issues a deterministic and limited number of new coins. Therefore, price will not drop too low. The goal of Bitflate is to create a digital token that people can use for transactions.
 
-Bitflate price will not be as stable as pegged stablecoins. It has significant advantages: digital native and decentralized. Bitflate will be more suitable for transactions than deflationary cryptocurrencies. It opens a new gateway to financial possibilities. In this future, we, the people, are in control.
+Bitflate price will not be as stable as pegged payment cryptos. It has significant advantages: digital native and decentralized. Bitflate will be more suitable for transactions than deflationary cryptocurrencies. It opens a new gateway to financial possibilities. In this future, we, the people, are in control.
 
 PS: Bitflate is now trading on [Unnamed Exchange](https://bitflate.org/exchange/). Join our [discord community](https://discord.gg/utnEyp8) for update.
 

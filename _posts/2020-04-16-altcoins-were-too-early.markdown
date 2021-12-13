@@ -32,7 +32,7 @@ Bitcoin is going to have its third halving on May 2020 (from 12.5 to 6.25). Its 
 
 Crypto builders made a mistake. They assume that Bitcoin is money. They think that Bitcoin will eventually become a Medium of Exchange. People will use bitcoin to buy coffee. Therefore, they start working on Bitcoin's improvements. They want to create "better" money. The problem is Bitcoin has not figured out how to become money. It's unlikely that Bitcoin will become a Medium of Exchange. Volatility is an inherent property of Bitcoin.
 
-Altcoin platforms like Ethereum don't address this fundamental problem with Bitcoin. Instead, they try to generalize Bitcoin technology to blockchain. The most useful products of the Ethereum platform are pegged stablecoins. They are useful for trading bitcoins on centralized exchanges. Ethereum's DeFi is an over-promised and under-delivered product.
+Altcoin platforms like Ethereum don't address this fundamental problem with Bitcoin. Instead, they try to generalize Bitcoin technology to blockchain. The most useful products of the Ethereum platform are pegged payment cryptos. They are useful for trading bitcoins on centralized exchanges. Ethereum's DeFi is an over-promised and under-delivered product.
 
 The market needs to focus its attention on making a Medium of Exchange. I believe inflation is the missing ingredient.
 
