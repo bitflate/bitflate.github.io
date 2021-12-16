@@ -5,7 +5,7 @@
 layout: home
 ---
 
-Bitflate is an effort to introduce a digital native payment medium through a constant 7% annual increase of supply. 
+Bitflate was created as an effort to introduce a digital native payment medium through a constant 7% annual increase of supply.
 
 While Bitcoin's price appreciation is based on increasing scarcity, we at Bitflate consider an inflationary approach a better fit for a digital currency that claims to be usable for everyday spendings.
 
