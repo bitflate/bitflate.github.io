@@ -3,7 +3,7 @@ layout: post
 title:  "Guest Post: Why Fixed Supply Tokens Can't Become True Currencies"
 date:   2021-11-27 10:00:00 -0700
 categories: post
-author: commodity.com
+author: Saul Bowden
 ---
 
 **This is a guest post from [commodity.com](https://commodity.com/).**
