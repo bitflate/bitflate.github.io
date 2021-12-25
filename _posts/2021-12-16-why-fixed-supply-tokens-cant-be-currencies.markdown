@@ -6,8 +6,6 @@ categories: post
 author: Saul Bowden
 ---
 
-**This is a guest post from [commodity.com](https://commodity.com/).**
-
 *Deflationary pressures and the crypto community itself are preventing fixed supply tokens from becoming true
 currencies.*
 
