@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Why Fixed Supply Tokens Can't Become True Currencies"
-date:   2021-11-27 10:00:00 -0700
+date:   2021-12-16 10:00:00 -0700
 categories: post
 author: Saul Bowden
 ---
