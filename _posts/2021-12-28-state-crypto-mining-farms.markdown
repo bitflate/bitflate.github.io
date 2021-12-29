@@ -24,13 +24,13 @@ However, I don't think these reasons are enough to say it won't or shouldn't hap
 
 If bitcoin ends up being pegged to the USD, for globalization purposes, it doesn't matter if bitcoin itself is or isn't adopted. As in, the US will be able to print more USD so the globalization vector could be (even more so) through USD.
 
-That being said, monetary policy adoption of bitcoin in other countries shouldn't be deterred. Given that, I think the most strategic path the US can take is to usher all ally countries to set up such infrastructure first (towards bitcoin) and instead choose to focus energy resources on mining Bitflate instead.
+That being said, monetary policy adoption of bitcoin in other countries shouldn't be deterred. Given that, I think the most strategic path the US can take is to usher all ally countries to set up such infrastructure first (towards bitcoin) and choose to focus energy resources on mining Bitflate instead.
 
 Why?
 
 1. "More bang for their buck"
 1. Adopting a system that gets increasingly more fair over time can be a virtue signal for
-ensuring the survival of a system that gets increasingly less fair over time (i.e. Hybrid Coins).
+ensuring the survival of a system that gets increasingly less fair over time (e.g. Hybrid Coins).
 In this way, the US can claim territorial dominance in the same domain without obstructing
 fostering cultural ties and ideologies. More importantly, the ever-expanding supply of Bitflate
 both subdues the concern of increasing centralization and provides a more substantive reason
