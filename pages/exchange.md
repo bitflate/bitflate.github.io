@@ -4,7 +4,12 @@ title: Exchange
 permalink: /exchange/
 ---
 
-These are third party sites.
+These are third party sites. Please use with caution.
+
+### Exbitron
+
+* [BFL/BTC](https://www.exbitron.com/trading/bflbtc)
+* [BFL/DOGE](https://www.exbitron.com/trading/bfldoge)
 
 ### Unnamed Exchange
 
