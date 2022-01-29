@@ -12,15 +12,6 @@ Bitflate is an inflationary cryptocurrency. Its inflation rate is 7% per year. P
 
 Intellectuals, like [Milton Friedman](https://en.wikipedia.org/wiki/Friedman%27s_k-percent_rule) and [John Nash](https://www.jstor.org/stable/1061553?seq=1), had discussed a constant inflation rate for money [1] [2]. The problem is how we would know the right inflation rate. The US Federal Reserve sets its inflation target at 2% [3]. Gold supply inflates around 1.5% [4].
 
-<div style="text-align: center">
-  <br/>
-  <img src="/assets/images/MorpheusBitcoinBitflate.jpg" alt="Hybrid Coins" width="400" />
-  <br/>
-  <i>Hybrid Coins (Created by @JacobBarnette)</i>
-  <br/>
-  <br/>
-</div>
-
 Cryptocurrencies can offer new options: hybrid coins. Using a sidechain, we can create a synthetic crypto. By mixing Bitcoin and Bitflate, we can create a coin with a supply inflation rate between 0 and 7%. Developers and engineers can get out of the business of picking an inflation rate. The market can decide the inflation rate. They will do this by issuing a sidechain coin with the backing of Bitcoin and Bitflate coins.
 
 Here's an example. In 2030, a financial provider wants to issue a coin that inflates at 3% per year. Let's call this coin Bit3. For simplicity, let's assume the Bitcoin supply is 21 million. It no longer inflates. Bitflate supply is 30 million. It inflates at 7% per year. In 2031, Bitflate supply will reach 33 million. At the time of this Bit3 issuance, 1 Bitcoin is equivalent to 1.4 Bitflate (30 million/21 million). If we mix ratio 1/1.4, we'd get a coin that has a supply inflation of 3.5%. To lower the inflation rate, we need to mix less Bitflate coins. In this case, the mix ratio is 1 Bitcoin and 1.2 Bitflate.
