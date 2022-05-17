@@ -6,7 +6,7 @@ categories: post
 author: doph
 ---
 
-*Bitflate is a cryptocurrency with constant inflation of 7% per year. Its goal is to be a Medium of Exchange.*
+*Bitflate is a cryptocurrency with constant inflation of 7% per year. Its goal is to unlock the Medium of Exchange use case.*
 
 Facebook CEO, Mark Zuckerberg, recently appeared in front of the United States Congress for a hearing about Libra cryptocurrency. The hearing lacked substance. Most congress members did not inquire deeply about Libra. They instead delved into smearing Facebook and its credibility. Both sides point fingers at each other. Crypto aficionados laments the lack of openness from regulators to new technologies. Regardless, there is deep misunderstanding and distrust between the public and the tech community.
 
@@ -38,4 +38,4 @@ Bitflate is a cryptocurrency with constant inflation rate of 7%. The project's g
 
 A cryptocurrency future is inevitable. There will be many cryptocurrencies. Each will have a different design and tradeoff. Instead of thinking about zero-sum games, we need to look forward to this future. We will have greater financial freedom. We can choose the best currencies for our financial goals. Governments and companies will soon join this vision. At the end of the day, we the people, are in control.
 
-*Bitflate is a cryptocurrency with constant inflation of 7% per year. Its goal is to be a Medium of Exchange.*
+*Bitflate is a cryptocurrency with constant inflation of 7% per year. Its goal is to unlock the Medium of Exchange use case.*

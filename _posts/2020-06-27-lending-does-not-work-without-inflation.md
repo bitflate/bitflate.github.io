@@ -6,7 +6,7 @@ categories: post
 author: doph
 ---
 
-*Bitflate is a cryptocurrency with constant inflation of 7% per year. Its goal is to be a Medium of Exchange.*
+*Bitflate is a cryptocurrency with constant inflation of 7% per year. Its goal is to unlock the Medium of Exchange use case.*
 
 Traditional value investors (e.g. Howard Marks) point out a problem with crypto assets: They have no cash flow. There is no way to value these assets. The only use case is speculation. To address this problem, some crypto builders have worked on lending. Crypto owners can put their assets to work through lending. Borrowers can use the money for business activities. They pay interest to lenders. Crypto assets can generate cash flow through this mechanism. Lending seems to be a good way to create utilities for crypto assets. In this article, I point out the problem with existing crypto lending. I believe a potential solution is inflation.
 
@@ -26,4 +26,4 @@ Making money through SoV appreciation and interest is extremely greedy. Crypto o
 
 When the underlying asset is inflationary, the system can correct itself. The asset's price would be less volatile. The asset depreciates over time. Owners are discouraged from hoarding. They will want to use the asset for businesses. It's easier for borrowers to acquire the asset to repay loans. Interest return is a solution to value depreciation. Lending is viable when the asset is inflationary.
 
-*Bitflate is a cryptocurrency with constant inflation of 7% per year. Its goal is to be a Medium of Exchange.*
+*Bitflate is a cryptocurrency with constant inflation of 7% per year. Its goal is to unlock the Medium of Exchange use case.*

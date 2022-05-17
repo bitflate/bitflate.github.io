@@ -6,7 +6,7 @@ categories: post
 author: doph
 ---
 
-*Bitflate is a cryptocurrency with constant inflation of 7% per year. Its goal is to be a Medium of Exchange.*
+*Bitflate is a cryptocurrency with constant inflation of 7% per year. Its goal is to unlock the Medium of Exchange use case.*
 
 I came across a discussion on Hacker News: [Bitcoin still makes no sense](https://news.ycombinator.com/item?id=25319849). I see it as an honest assessment from someone open-minded about Bitcoin. The article's author, Evan Kozliner, made some interesting observations. Bitcoin supporters claim that they understand money better. Bitcoin is THE money. Bitcoin supporters mostly agree that Bitcoin has no intrinsic value. It'll be the mother of all assets. In the future, values will be based on Bitcoin. But this future has a problem. If Bitcoin's price continues to rise, we'd be spending more and more energy to mine it. Since Bitcoin has no intrinsic value, its price cannot be determined. We can spend an infinite amount of energy. We don't have infinite energy.
 
@@ -39,4 +39,4 @@ Hybrid Crypto Price = Demand / Supply
 
 In this case, the supply is never zero. So the price is never infinite. It is the way to get out of the Bitcoin Price Paradox. This is where an inflationary crypto is useful. Bitflate is an experiment in this direction. It has a moderately high inflation of 7%. It is the opposite of Bitcoin. Another way to think about this solution is through the philosophy of Yi Ching. Money Yin and Yang are Deflation and Inflation. They're complementary to each other.
 
-*Bitflate is a cryptocurrency with constant inflation of 7% per year. Its goal is to be a Medium of Exchange.*
+*Bitflate is a cryptocurrency with constant inflation of 7% per year. Its goal is to unlock the Medium of Exchange use case.*

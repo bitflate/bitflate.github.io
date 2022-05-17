@@ -6,7 +6,7 @@ categories: post
 author: doph
 ---
 
-*Bitflate is a cryptocurrency with constant inflation of 7% per year. Its goal is to be a Medium of Exchange.*
+*Bitflate is a cryptocurrency with constant inflation of 7% per year. Its goal is to unlock the Medium of Exchange use case.*
 
 There is a vision of Bitcoin where it would gobble up all assets in the world. Eventually, everything would be tokenized into bitcoins. First, Bitcoin would eat up currencies. Then, equities, then real estates. There are strong supporters of this vision.
 
@@ -32,4 +32,4 @@ Bitcoin is a fairly good store of value. It is decentralized, has network effect
 
 PS: Don't let excitement fool you. Beware of financial frauds.
 
-*Bitflate is a cryptocurrency with constant inflation of 7% per year. Its goal is to be a Medium of Exchange.*
+*Bitflate is a cryptocurrency with constant inflation of 7% per year. Its goal is to unlock the Medium of Exchange use case.*

@@ -6,7 +6,7 @@ categories: post
 author: doph
 ---
 
-*Bitflate is a cryptocurrency with constant inflation of 7% per year. Its goal is to be a Medium of Exchange.*
+*Bitflate is a cryptocurrency with constant inflation of 7% per year. Its goal is to unlock the Medium of Exchange use case.*
 
 Nobody could have imagined the Coronavirus crisis. But the scope and damage are enormous. The Black Swan event is here. Nassim Taleb calls it a White Swan, an expected pandemic that will eventually happen. You can buy his book to learn this distinction. Governments and people were caught off guard. The crisis started at the beginning of 2020. A few months later, it has turned the world economy upside down.
 
@@ -42,4 +42,4 @@ The Coronavirus crisis highlights the importance of inflation. It is the force t
 
 It's time to discard the idea that Bitcoin is the ideal form of money. It is a good starting point to create a new monetary system. But its deflationary property makes it volatile. It is not suitable as a medium of exchange. We need crypto experiments with inflation.
 
-*Bitflate is a cryptocurrency with constant inflation of 7% per year. Its goal is to be a Medium of Exchange.*
+*Bitflate is a cryptocurrency with constant inflation of 7% per year. Its goal is to unlock the Medium of Exchange use case.*

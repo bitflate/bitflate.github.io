@@ -6,7 +6,7 @@ categories: post
 author: doph
 ---
 
-*Bitflate is a cryptocurrency with constant inflation of 7% per year. Its goal is to be a Medium of Exchange.*
+*Bitflate is a cryptocurrency with constant inflation of 7% per year. Its goal is to unlock the Medium of Exchange use case.*
 
 Ten years after Bitcoin whitepaper release, cryptocurrencies have advanced. But its progress is slow. All cryptocurrencies, including Bitcoin, are just niche speculative assets. We have Bitcoin, Litecoin, Dogecoin, Ethereum, Ripple, Stellar, and many others. Why hasn't crypto made into everyday transactions? We still can't purchase coffee with cryptocurrency. The world of finance remains disconnected from crypto.
 
@@ -36,4 +36,4 @@ An interesting development in this category will involve experimentation with a 
 
 I think this will be an emerging type of cryptocurrency. The crypto market has overlooked inflation. Being dogmatic about limited supply creates a blind spot. The crypto builders historically dismissed inflation. I think this hinders crypto adoption. Inflation can stabilize the price. It discourages HODL behavior. It makes the currency more suitable for transactions. Inflating cryptocurrency can be decentralized and governed by fixed rules. As people become more comfortable with using inflating cryptocurrency, they will understand the role of SoV like Bitcoin.
 
-*Bitflate is a cryptocurrency with constant inflation of 7% per year. Its goal is to be a Medium of Exchange.*
+*Bitflate is a cryptocurrency with constant inflation of 7% per year. Its goal is to unlock the Medium of Exchange use case.*

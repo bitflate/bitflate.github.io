@@ -6,7 +6,7 @@ categories: post
 author: doph
 ---
 
-*Bitflate is a cryptocurrency with constant inflation of 7% per year. Its goal is to be a Medium of Exchange.*
+*Bitflate is a cryptocurrency with constant inflation of 7% per year. Its goal is to unlock the Medium of Exchange use case.*
 
 I came across a [thread](https://twitter.com/AriDavidPaul/status/1250519463935512576) from Ari Paul (@AriDavidPaul), a crypto analyst, about Bitcoin and Ethereum. He mentioned the valuation challenge with Ethereum. With Bitcoin, there's a simple and compelling pitch: Bitcoin is digital gold. We can compare Bitcoin with gold. We can roughly derive Bitcoin's valuation. Ethereum does not have a clear valuation model. Its supporters tout the DeFi potential. But DeFi is a vague concept. We don't know how to quantify the DeFi market.
 
@@ -36,4 +36,4 @@ Altcoin platforms like Ethereum don't address this fundamental problem with Bitc
 
 The market needs to focus its attention on making a Medium of Exchange. I believe inflation is the missing ingredient.
 
-*Bitflate is a cryptocurrency with constant inflation of 7% per year. Its goal is to be a Medium of Exchange.*
+*Bitflate is a cryptocurrency with constant inflation of 7% per year. Its goal is to unlock the Medium of Exchange use case.*

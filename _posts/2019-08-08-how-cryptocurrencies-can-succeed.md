@@ -6,7 +6,7 @@ categories: post
 author: doph
 ---
 
-*Bitflate is a cryptocurrency with constant inflation of 7% per year. Its goal is to be a Medium of Exchange.*
+*Bitflate is a cryptocurrency with constant inflation of 7% per year. Its goal is to unlock the Medium of Exchange use case.*
 
 ### Elusive crypto revolution
 
@@ -44,4 +44,4 @@ Three factors decide a cryptocurrency success: specialization, specialization, s
 
 PS: If you ever wonder what Bitflate is specialized in, here's Bitflate use case. It seeks to be a digital native payment crypto through inflation. People use Bitflate for transactions. Inflation discourages HODL and encourages users to transact.
 
-*Bitflate is a cryptocurrency with constant inflation of 7% per year. Its goal is to be a Medium of Exchange.*
+*Bitflate is a cryptocurrency with constant inflation of 7% per year. Its goal is to unlock the Medium of Exchange use case.*

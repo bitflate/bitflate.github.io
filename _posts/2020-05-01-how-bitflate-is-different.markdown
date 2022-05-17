@@ -6,7 +6,7 @@ categories: post
 author: doph
 ---
 
-*Bitflate is a cryptocurrency with constant inflation of 7% per year. Its goal is to be a Medium of Exchange.*
+*Bitflate is a cryptocurrency with constant inflation of 7% per year. Its goal is to unlock the Medium of Exchange use case.*
 
 When I discuss Bitflate on public forums (Twitter, bitcointalk, Hacker News), people tell me that inflation is an old idea. Teams had tried these experiments. Inflation adds nothing new or novel to cryptocurrency. However, with Bitflate, I want to reintroduce the idea of minimalism. Bitflate is the same kind of money as Bitcoin, with one exception, a 7% supply inflation. It will remain so in the future. We will not commit to further change.
 
@@ -38,4 +38,4 @@ I want to come back to the minimal form of cryptocurrency, Bitcoin. We don't nee
 
 Previous experiments, like tail emission, have not fully committed to the idea of inflation. Dev teams and communities are afraid of price crash. They hold on to the idea of a highly restrictive supply. Why do we need inflation? A constant inflation rate will reduce volatility. Inflation is the missing ingredient in cryptocurrency. It is the key to create a Medium of Exchange. That's the breakthrough we need for widespread cryptocurrency adoption.
 
-*Bitflate is a cryptocurrency with constant inflation of 7% per year. Its goal is to be a Medium of Exchange.*
+*Bitflate is a cryptocurrency with constant inflation of 7% per year. Its goal is to unlock the Medium of Exchange use case.*

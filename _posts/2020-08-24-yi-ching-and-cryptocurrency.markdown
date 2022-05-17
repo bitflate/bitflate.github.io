@@ -6,7 +6,7 @@ categories: post
 author: doph
 ---
 
-*Bitflate is a cryptocurrency with constant inflation of 7% per year. Its goal is to be a Medium of Exchange.*
+*Bitflate is a cryptocurrency with constant inflation of 7% per year. Its goal is to unlock the Medium of Exchange use case.*
 
 When I first learned about Bitcoin, the problem I thought about was its digital form. It will be easily replicated. I later disproved this problem. Bitcoin is a digital currency. But its network effect is very difficult to replicate. I started thinking about the next question: Why is Bitcoin not widely adopted? This seems to be a harder and ongoing problem. Bitcoiners like to pitch hyperbitcoinization. In this future, money is based on Bitcoin. Therefore, people will use bitcoins for transactions. Bitcoin has grown significantly. There's no indication of how hyperbitcoinization will unfold. Bitcoin seems to be eternally unsuitable for transactions. The problem is volatility. Bitcoin's supply cap makes Bitcoin volatile. With a hard cap, Bitcoin is a good Store of Value. But volatility will prevent Bitcoin from being used as a Medium of Exchange. Bitcoin is likely unable to fulfill its goal as a currency for transactions. How do we address this problem? Bitcoin is deflationary. The answer seems to be something that's opposite of Bitcoin: inflationary. Yi (I) Ching, an ancient Chinese philosophy, can provide some guidance. We can apply the Yin/Yang concept in Taoism. We can think of Bitcoin as Yang (or Qian). It is deflationary. Something opposite of Bitcoin is Yin (or Kun). It is inflationary.
 
@@ -291,4 +291,4 @@ Bitcoin's most prominent property is its hard cap. The property makes Bitcoin di
 
 Since 2008, we've been on a search for the Ideal Money. Some people think Bitcoin is It. Others have proposed their so-called improvements to Bitcoin. Yi Ching, a 3000-year-old principle, can point us in the right direction to discover the Ideal Money.
 
-*Bitflate is a cryptocurrency with constant inflation of 7% per year. Its goal is to be a Medium of Exchange.*
+*Bitflate is a cryptocurrency with constant inflation of 7% per year. Its goal is to unlock the Medium of Exchange use case.*

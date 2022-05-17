@@ -6,7 +6,7 @@ categories: post
 author: doph
 ---
 
-*Bitflate is a cryptocurrency with constant inflation of 7% per year. Its goal is to be a Medium of Exchange.*
+*Bitflate is a cryptocurrency with constant inflation of 7% per year. Its goal is to unlock the Medium of Exchange use case.*
 
 *This article reflects the author's opinion, not Bitflate community.*
 
@@ -42,4 +42,4 @@ Perhaps, around the year 2025, an Ethereum DHH will appear and figure out a cool
 
 Disclosure: I'm long Bitcoin (BTC) and Biflate (BFL).
 
-*Bitflate is a cryptocurrency with constant inflation of 7% per year. Its goal is to be a Medium of Exchange.*
+*Bitflate is a cryptocurrency with constant inflation of 7% per year. Its goal is to unlock the Medium of Exchange use case.*
