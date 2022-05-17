@@ -6,7 +6,7 @@ categories: post
 author: doph
 ---
 
-*Bitflate is a cryptocurrency with constant inflation of 7% per year. Its goal is to be a Medium of Exchange.*
+*Bitflate is a cryptocurrency with constant inflation of 7% per year. Its goal is to unlock the Medium of Exchange use case.*
 
 This is my view of the next big thing in crypto. Bitcoin is digital gold. It has a limited supply of 21 million coins. Therefore, its price fluctuates. Payment Cryptos are cryptocurrencies designed to avoid price volatility. Existing stablecoins are issued by centralized authorities. This mechanism defeats the ethos of cryptocurrency. In order to access decentralized cryptocurrency, we need to rely on centralized authorities to issue digital payment cryptos.
 
@@ -46,4 +46,4 @@ Bitflate price will not be as stable as pegged payment cryptos. It has significa
 
 PS: Bitflate is now trading on [Unnamed Exchange](https://bitflate.org/exchange/). Join our [discord community](https://discord.gg/utnEyp8) for update.
 
-*Bitflate is a cryptocurrency with constant inflation of 7% per year. Its goal is to be a Medium of Exchange.*
+*Bitflate is a cryptocurrency with constant inflation of 7% per year. Its goal is to unlock the Medium of Exchange use case.*

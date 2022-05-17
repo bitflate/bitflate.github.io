@@ -6,7 +6,7 @@ categories: post
 author: doph
 ---
 
-*Bitflate is a cryptocurrency with constant inflation of 7% per year. Its goal is to be a Medium of Exchange.*
+*Bitflate is a cryptocurrency with constant inflation of 7% per year. Its goal is to unlock the Medium of Exchange use case.*
 
 Bitcoin is the first cryptocurrency. It has a limited supply of 21 million coins. Since its creation, Austrian economics is making a comeback. Bitcoin is pitched as digital gold and deflationary asset. The world of economic theories collide: Austrian versus Keynesian economics. The line of the divide is clear. Crypto is Austrian. Fiat is Keynesian.
 
@@ -32,4 +32,4 @@ Is the world either Austrian or Keynesian? Do we need to pick a side? I don't th
 
 *Read more about inflating crypto [economic incentives](/post/2019/11/01/economic-incentives-for-inflating-cryptocurrency.html).*
 
-*Bitflate is a cryptocurrency with constant inflation of 7% per year. Its goal is to be a Medium of Exchange.*
+*Bitflate is a cryptocurrency with constant inflation of 7% per year. Its goal is to unlock the Medium of Exchange use case.*

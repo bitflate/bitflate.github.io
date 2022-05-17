@@ -6,7 +6,7 @@ categories: post
 author: doph
 ---
 
-*Bitflate is a cryptocurrency with constant inflation of 7% per year. Its goal is to be a Medium of Exchange.*
+*Bitflate is a cryptocurrency with constant inflation of 7% per year. Its goal is to unlock the Medium of Exchange use case.*
 
 ![Figure 1](/assets/images/BitcoinConception.png)
 
@@ -39,4 +39,4 @@ Bitcoin is an exciting study case for religion. It shows us how the interminglin
 
 Humans squabbled over these conflicting claims for thousands of years. The conflicting stories were written to the Bible. Crypto communities continue to attack each other and make outrageous claims. I think the Bible also contains stories that can help us find a cure. Bitcoin may have started with an Immaculate Conception and an Original Sin. The world is full of contradiction. Whatever happened, we are here with cryptocurrencies. The problem is not ours. We can "baptize" ourselves and move forward. Without forgiveness, we can never make peace with others and with ourselves.
 
-*Bitflate is a cryptocurrency with constant inflation of 7% per year. Its goal is to be a Medium of Exchange.*
+*Bitflate is a cryptocurrency with constant inflation of 7% per year. Its goal is to unlock the Medium of Exchange use case.*

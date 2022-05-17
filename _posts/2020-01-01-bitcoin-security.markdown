@@ -6,7 +6,7 @@ categories: post
 author: doph
 ---
 
-*Bitflate is a cryptocurrency with constant inflation of 7% per year. Its goal is to be a Medium of Exchange.*
+*Bitflate is a cryptocurrency with constant inflation of 7% per year. Its goal is to unlock the Medium of Exchange use case.*
 
 I came across an interesting article on Palladium Magazine: [Facebook’s Libra Is Half A Century Late And A Navy Short](https://palladiummag.com/2019/11/13/facebooks-libra-is-half-a-century-late-and-a-navy-short/). The essay makes a good point about money security. Governments are the backers of their currencies. When a government is powerful, its currency is more credible. The US dollar is an example. The most dominant military power in the world issues it. Therefore, it is the most trusted currency. Minting money is just a process. With quantitative easing and modern money theory, we now know that there is no limit to how much the US government can print.
 
@@ -37,4 +37,4 @@ Contrary to popular crypto opinion, Bitcoin would benefit from some centralizati
 
 **Some level of centralization is good for Bitcoin.**
 
-*Bitflate is a cryptocurrency with constant inflation of 7% per year. Its goal is to be a Medium of Exchange.*
+*Bitflate is a cryptocurrency with constant inflation of 7% per year. Its goal is to unlock the Medium of Exchange use case.*

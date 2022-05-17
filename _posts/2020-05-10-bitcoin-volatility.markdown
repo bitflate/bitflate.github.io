@@ -6,7 +6,7 @@ categories: post
 author: doph
 ---
 
-*Bitflate is a cryptocurrency with constant inflation of 7% per year. Its goal is to be a Medium of Exchange.*
+*Bitflate is a cryptocurrency with constant inflation of 7% per year. Its goal is to unlock the Medium of Exchange use case.*
 
 ### Bitcoin price is going up, but it will remain volatile
 
@@ -46,4 +46,4 @@ Bitflate is still a small experiment. It's early to declare victory. But I think
 
 John Vallis set a reminder in 5 years. If Bitcoin's price volatility goes down by then, I will admit that I am wrong. The Bitflate experiment will fold. Until then, let's enjoy the ride.
 
-*Bitflate is a cryptocurrency with constant inflation of 7% per year. Its goal is to be a Medium of Exchange.*
+*Bitflate is a cryptocurrency with constant inflation of 7% per year. Its goal is to unlock the Medium of Exchange use case.*

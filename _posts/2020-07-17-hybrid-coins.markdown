@@ -6,9 +6,9 @@ categories: post
 author: doph
 ---
 
-*Bitflate is a cryptocurrency with constant inflation of 7% per year. Its goal is to be a Medium of Exchange.*
+*Bitflate is a cryptocurrency with constant inflation of 7% per year. Its goal is to unlock the Medium of Exchange use case.*
 
-Bitflate is an inflationary cryptocurrency. Its inflation rate is 7% per year. People are often critical of this inflation rate. It is too high. It will make Bitflate coins worthless. The rate of 7% is intentional. Bitflate is not designed to be a Store of Value (SoV). Its goal is to be a Medium of Exchange. If we chose a low inflation rate (e.g. 1%), Bitflate supply will behave more like an SoV. It will have no place in the market. Bitcoin has already occupied the SoV use case. There is a nice feature of 7%: supply doubles every 10 years. Therefore, having a moderately high inflation rate, like 7%, is a clear differentiator.
+Bitflate is an inflationary cryptocurrency. Its inflation rate is 7% per year. People are often critical of this inflation rate. It is too high. It will make Bitflate coins worthless. The rate of 7% is intentional. Bitflate is not designed to be a Store of Value (SoV). Its goal is to unlock the Medium of Exchange use case. If we chose a low inflation rate (e.g. 1%), Bitflate supply will behave more like an SoV. It will have no place in the market. Bitcoin has already occupied the SoV use case. There is a nice feature of 7%: supply doubles every 10 years. Therefore, having a moderately high inflation rate, like 7%, is a clear differentiator.
 
 Intellectuals, like [Milton Friedman](https://en.wikipedia.org/wiki/Friedman%27s_k-percent_rule) and [John Nash](https://www.jstor.org/stable/1061553?seq=1), had discussed a constant inflation rate for money [1] [2]. The problem is how we would know the right inflation rate. The US Federal Reserve sets its inflation target at 2% [3]. Gold supply inflates around 1.5% [4].
 
@@ -28,4 +28,4 @@ Hybrid coins is a novelty of cryptocurrencies. We no longer need central plannin
 
 [4] [Gold Supply Increase](https://www.businessinsider.com/gold-supply-rising-faster-than-money-supply-2011-1)
 
-*Bitflate is a cryptocurrency with constant inflation of 7% per year. Its goal is to be a Medium of Exchange.*
+*Bitflate is a cryptocurrency with constant inflation of 7% per year. Its goal is to unlock the Medium of Exchange use case.*

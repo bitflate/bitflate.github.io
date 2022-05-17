@@ -12,19 +12,19 @@ Original Post on [BitCourier](https://bitcourier.co.uk/news/bitflate-interview).
 
 **Chris from BitCourier: What is BitFlate?**
  
-Phuoc from BitFlate: Bitflate is a cryptocurrency with a 7% inflation rate. It is the first cryptocurrency to embrace inflation. Some cryptocurrencies, like Dogecoin, have constant tail emission. Their inflation rate decreases over time as supply increases. Bitflate is designed to unlock the Medium of Exchange use-case for crypto. Our goal is to make crypto usable for everyday transactions.
+Phuoc from BitFlate: Bitflate is a cryptocurrency with a 7% inflation rate. It is the first cryptocurrency to embrace inflation. Some cryptocurrencies, like Dogecoin, have constant tail emission. Their inflation rate decreases over time as supply increases. Bitflate is designed to unlock the Medium of Exchange use case for crypto. Our goal is to make crypto usable for everyday transactions.
 
 **Chris from BitCourier: I can see the idea of Inflation is a focal one in your reward system. Can you elaborate on that?**
  
-Phuoc from BitFlate: Crypto prices are speculative and highly volatile. Disinflationary supply encourages hoarding. These behaviors hinders crypto adoption. Money has three functions: Store of Value, Medium of Exchange, and Unit of Account. Bitcoin and existing cryptocurrencies are unable to fulfill these functions because of disinflationary supply. Bitcoin's use-case remains a Store of Value. We believe inflation is the key to unlock new use-cases.
+Phuoc from BitFlate: Crypto prices are speculative and highly volatile. Disinflationary supply encourages hoarding. These behaviors hinders crypto adoption. Money has three functions: Store of Value, Medium of Exchange, and Unit of Account. Bitcoin and existing cryptocurrencies are unable to fulfill these functions because of disinflationary supply. Bitcoin's use case remains a Store of Value. We believe inflation is the key to unlock new use cases.
 
 **Chris from BitCourier: Who benefits/will benefit from your coins? Why should investors consider it?**
  
-Phuoc from BitFlate: Once we unlock new use-cases, the crypto market will grow even faster. It can be used as a Medium of Exchange for transactions. Investors should consider Bitflate because it's in an early stage. The market has not realized inflation is the key missing piece. Bitflate's reward system is also designed to benefit early adopters. Rewards halves for the first 3 halvings before inflation starts. Coin supply is still limited.
+Phuoc from BitFlate: Once we unlock new use cases, the crypto market will grow even faster. It can be used as a Medium of Exchange for transactions. Investors should consider Bitflate because it's in an early stage. The market has not realized inflation is the key missing piece. Bitflate's reward system is also designed to benefit early adopters. Rewards halves for the first 3 halvings before inflation starts. Coin supply is still limited.
 
 **Chris from BitCourier: What are your thoughts on the DeFi movement?**
  
-Phuoc from BitFlate: I think DeFi is still at an early stage. We have not escaped the Store of Value use-case. The market closely follows Bitcoin's price movement. While many ideas in DeFi are valid, they are currently not practical. Volatility and speculation prevents people from using crypto as money. I think inflation and Bitflate will unlock new use-cases for crypto. They allow the market to grow beyond just speculation. The future of DeFi is bright. But we need inflation and a coin like Bitflate.
+Phuoc from BitFlate: I think DeFi is still at an early stage. We have not escaped the Store of Value use case. The market closely follows Bitcoin's price movement. While many ideas in DeFi are valid, they are currently not practical. Volatility and speculation prevents people from using crypto as money. I think inflation and Bitflate will unlock new use cases for crypto. They allow the market to grow beyond just speculation. The future of DeFi is bright. But we need inflation and a coin like Bitflate.
 
 **Chris from BitCourier: How about the STO market?**
  

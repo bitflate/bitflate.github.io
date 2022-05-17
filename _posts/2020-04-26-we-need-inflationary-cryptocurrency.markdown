@@ -6,7 +6,7 @@ categories: post
 author: doph
 ---
 
-*Bitflate is a cryptocurrency with constant inflation of 7% per year. Its goal is to be a Medium of Exchange.*
+*Bitflate is a cryptocurrency with constant inflation of 7% per year. Its goal is to unlock the Medium of Exchange use case.*
 
 ### A Deflationary Crisis
 
@@ -26,7 +26,7 @@ We need a cryptocurrency that goes beyond a speculative asset and a Store of Val
 
 ### Inflationary cryptocurrency
 
-Bitflate is a cryptocurrency with constant inflation of 7% per year. Its goal is to be a Medium of Exchange. I design a reward system to give more coins to early adopters. The idea is to encourage people to hold on to their coins and create some restriction of supply. This bootstrap mechanism creates incentives to hold Bitflate coins. The reward system is as follows:
+Bitflate is a cryptocurrency with constant inflation of 7% per year. Its goal is to unlock the Medium of Exchange use case. I design a reward system to give more coins to early adopters. The idea is to encourage people to hold on to their coins and create some restriction of supply. This bootstrap mechanism creates incentives to hold Bitflate coins. The reward system is as follows:
 
 - 0: 50 (supply: ~10 million)
 - 1: 25 (supply: ~15 million)
@@ -42,4 +42,4 @@ Bitflate is a cryptocurrency with constant inflation of 7% per year. Its goal is
 
 For the first 3 halvings, Biflate follows the same reward schedule as Bitcoin. But it will switch to inflation after 3 halvings. Even with inflation, it will take 10 years for supply to reach 31 million coins. Bitflate adheres crypto principles. It differs on economics and is designed to be a Medium of Exchange. It offers the same freedom as Bitcoin. The game is fair.
 
-*Bitflate is a cryptocurrency with constant inflation of 7% per year. Its goal is to be a Medium of Exchange.*
+*Bitflate is a cryptocurrency with constant inflation of 7% per year. Its goal is to unlock the Medium of Exchange use case.*

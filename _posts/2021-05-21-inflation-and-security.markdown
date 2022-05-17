@@ -6,7 +6,7 @@ categories: post
 author: doph
 ---
 
-*Bitflate is a cryptocurrency with constant inflation of 7% per year. Its goal is to be a Medium of Exchange.*
+*Bitflate is a cryptocurrency with constant inflation of 7% per year. Its goal is to unlock the Medium of Exchange use case.*
 
 The Bitcoin bull market is here again. Everything is up like, Bitcoin's price, the total network hash rate. As usual, the amount of criticism has also gone up. The energy FUD around Bitcoin gets louder. Bitcoin's price directly impacts the amount of energy used in mining. The energy debate is black and white. Supporters argue that Bitcoin is an efficient monetary system, likely the most efficient. Critics argue that energy usage is wasteful. The existing system is way more efficient.
 
@@ -28,4 +28,4 @@ The US Fed has an inflation target of 2%. This rate may work if the US dollar is
 
 We can also model inflation based on the human population growth rate. If the population grows between 1.5% to 2% with 1.5% to 2% as the overhead cost, the long-term average money inflation would be somewhere between 3% and 4%. Bitcoin supporters are likely too optimistic. The system may not rely on less than 1% to sustain itself. Critics may be wrong about energy usage. A monetary system needs 3% to 4% inflation to sustain itself. Bitcoin's energy usage within or below that range (1.5% to 2%) should be acceptable.
 
-*Bitflate is a cryptocurrency with constant inflation of 7% per year. Its goal is to be a Medium of Exchange.*
+*Bitflate is a cryptocurrency with constant inflation of 7% per year. Its goal is to unlock the Medium of Exchange use case.*

@@ -34,4 +34,4 @@ Bitcoin is decentralized money. It exists because many of us believe it has valu
 
 **Bitcoin will be a Store of Value. We will use other "bad" money as currency.**
 
-*Bitflate is a cryptocurrency with constant inflation of 7% per year. Its goal is to be a Medium of Exchange.*
+*Bitflate is a cryptocurrency with constant inflation of 7% per year. Its goal is to unlock the Medium of Exchange use case.*

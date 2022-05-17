@@ -6,7 +6,7 @@ categories: post
 author: doph
 ---
 
-*Bitflate is a cryptocurrency with constant inflation of 7% per year. Its goal is to be a Medium of Exchange.*
+*Bitflate is a cryptocurrency with constant inflation of 7% per year. Its goal is to unlock the Medium of Exchange use case.*
 
 Note: This story is a fiction of the future. It's not exactly what will happen to Bitcoin.
 
@@ -27,4 +27,4 @@ This comes from two things I learn recently:
 1. Hashrate drop to 0 is not going to kill Bitcoin. The network just goes to sleep.
 2. Bitcoin doesn't have to be completely decentralized.
 
-*Bitflate is a cryptocurrency with constant inflation of 7% per year. Its goal is to be a Medium of Exchange.*
+*Bitflate is a cryptocurrency with constant inflation of 7% per year. Its goal is to unlock the Medium of Exchange use case.*

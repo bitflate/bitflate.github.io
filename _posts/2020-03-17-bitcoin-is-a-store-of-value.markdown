@@ -6,7 +6,7 @@ categories: post
 author: doph
 ---
 
-*Bitflate is a cryptocurrency with constant inflation of 7% per year. Its goal is to be a Medium of Exchange.*
+*Bitflate is a cryptocurrency with constant inflation of 7% per year. Its goal is to unlock the Medium of Exchange use case.*
 
 *This article expresses a personal opinion of the Bitflate developer. It is not investment advice.*
 
@@ -46,4 +46,4 @@ By long-term, I mean the time horizon is 5-10 years (more than 1 halving). Bitco
 
 People will move their money around. I follow but usually ignore short-term price movements. I try to stick with my timeline and how I allocate money. During tumultuous times, some bitcoiners advocate HODLism as a strategy. You should always hold. But I don't think this is a sound strategy. I think a sound investment approach is to compare Bitcoin with other assets. If I see Bitcoin overvalued compared to real estate or equities, I would consider dumping Bitcoin. This is my personal view of how to deal with Bitcoin's price movements. You should do your own research.
 
-*Bitflate is a cryptocurrency with constant inflation of 7% per year. Its goal is to be a Medium of Exchange.*
+*Bitflate is a cryptocurrency with constant inflation of 7% per year. Its goal is to unlock the Medium of Exchange use case.*

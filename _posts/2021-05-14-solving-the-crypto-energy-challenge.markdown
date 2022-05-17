@@ -6,11 +6,11 @@ categories: post
 author: doph
 ---
 
-*Bitflate is a cryptocurrency with constant inflation of 7% per year. Its goal is to be a Medium of Exchange.*
+*Bitflate is a cryptocurrency with constant inflation of 7% per year. Its goal is to unlock the Medium of Exchange use case.*
 
 The crypto market is on fire. Hashrate keeps reaching an all-time high. The energy debate has made a big comeback. The Xinjiang Bitcoin mining outage in April crashed the market. The incident spotlighted the inconvenient fact that a lot of Bitcoin mining energy is not coming from renewable sources. Elon Musk published his concern on Twitter: [Bitcoin increases the use of fossil fuel](https://twitter.com/elonmusk/status/1392602041025843203). Bitcoin supporters and critics continue to battle over the issue.
 
-Bitcoin is a unique invention. It offers a future where we can enjoy more freedom. Since its invention, Bitcoin remains a highly speculative asset. The Store of Value use-case becomes increasingly entrenched. However, supporters and critics view Bitcoin through different lenses. For supporters, Bitcoin is the ultimate future. For critics, Bitcoin is madness. Mining is the hot button topic because it uses real-world energy. Energy spend makes Bitcoin real. But it can damage the environment through increased use of fossil fuel. Bitcoin is money. Money embodies the ultimate fear and desire of humans. Supporters and critics are increasingly polarized.
+Bitcoin is a unique invention. It offers a future where we can enjoy more freedom. Since its invention, Bitcoin remains a highly speculative asset. The Store of Value use case becomes increasingly entrenched. However, supporters and critics view Bitcoin through different lenses. For supporters, Bitcoin is the ultimate future. For critics, Bitcoin is madness. Mining is the hot button topic because it uses real-world energy. Energy spend makes Bitcoin real. But it can damage the environment through increased use of fossil fuel. Bitcoin is money. Money embodies the ultimate fear and desire of humans. Supporters and critics are increasingly polarized.
 
 ### Energy spend is good
 
@@ -38,4 +38,4 @@ Bitcoin is a digital commodity. It lives in the virtual realm. It has no connect
 
 The key to solving the energy debate is payment adoption. When people can use cryptocurrencies for payments, we can compare them with the existing systems. Payment adoption will let us gauge how much crypto transactions cost. At that point, we can decide how much energy we need to spend to operate cryptocurrency networks.
 
-*Bitflate is a cryptocurrency with constant inflation of 7% per year. Its goal is to be a Medium of Exchange.*
+*Bitflate is a cryptocurrency with constant inflation of 7% per year. Its goal is to unlock the Medium of Exchange use case.*
