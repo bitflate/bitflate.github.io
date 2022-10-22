@@ -4,20 +4,12 @@ title: Exchange
 permalink: /exchange/
 ---
 
-These are third party sites. Please use with caution.
+These are third party sites. <b>Please use with caution.</b>
 
 ### Exbitron
 
 * [BFL/BTC](https://www.exbitron.com/trading/bflbtc)
 * [BFL/DOGE](https://www.exbitron.com/trading/bfldoge)
-
-### Unnamed Exchange
-
-* [BFL/BTC](https://www.unnamed.exchange/Exchange?market=BFL_BTC)
-* [BFL/ETH](https://www.unnamed.exchange/Exchange?market=BFL_ETH)
-* [BFL/LTC](https://www.unnamed.exchange/Exchange?market=BFL_LTC)
-* [BFL/DOGE](https://www.unnamed.exchange/Exchange?market=BFL_DOGE)
-* [BFL/uTip](https://www.unnamed.exchange/Exchange?market=BFL_UTIP)
 
 ### Bitflate Market Data
 
